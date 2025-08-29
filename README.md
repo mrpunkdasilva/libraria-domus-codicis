@@ -181,6 +181,21 @@ O script irá detectar automaticamente os arquivos PDF que foram adicionados ou 
 
 **Observação:** Se um único arquivo PDF for maior que 50MB, ele não poderá ser enviado para o repositório devido à restrição de tamanho.
 
+### `scripts/generate_book_titles.py`
+
+Este script Python lê o arquivo `books.json`, processa os nomes dos arquivos PDF para remover underscores e extensões, e adiciona um título limpo (`"title_clean"`) a cada entrada de livro no `books.json`.
+
+**Como usar:**
+
+1.  Certifique-se de ter o Python 3 instalado em seu sistema.
+2.  Navegue até a raiz do repositório no seu terminal.
+3.  Execute o script:
+    ```bash
+    python scripts/generate_book_titles.py
+    ```
+
+O script irá atualizar o `books.json` com os títulos limpos, mantendo as informações existentes.
+
 ---
 
 *This README was generated to help organize this personal library. Happy reading!*
