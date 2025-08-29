@@ -11,16 +11,10 @@ cd "$PROJECT_ROOT" || exit
 
 echo "Buscando por arquivos PDF novos ou modificados na raiz do projeto..."
 
-# Get a list of new (untracked) and modified PDF files.
-MODIFIED_FILES=$(git ls-files --modified --others --exclude-standard '*.pdf')
-
-if [ -z "$MODIFIED_FILES" ]; then
-  echo "Nenhum arquivo PDF novo ou modificado encontrado."
-  exit 0
-fi
-
-# Use a while loop to read each line, which handles filenames with spaces correctly.
-while IFS= read -r file; do
+# Usa `git ls-files -z` para obter uma lista de arquivos terminada em NUL, que é a forma mais robusta
+# de lidar com nomes de arquivos que contêm espaços, acentos ou outros caracteres especiais.
+# A saída é passada para um loop `while`, que lê até o delimitador NUL (`-d ''`).
+git ls-files --modified --others --exclude-standard -z '*.pdf' | while IFS= read -r -d '' file; do
   echo "---------------------------------"
   echo "Processando arquivo: $file"
 
@@ -50,7 +44,13 @@ while IFS= read -r file; do
   fi
 
   echo "Arquivo '$file' enviado com sucesso."
-done <<< "$MODIFIED_FILES"
+done
+
+# Verifica o código de saída do `git ls-files` para ver se algum arquivo foi encontrado.
+# Se a saída for vazia, o `while` loop não executa. Precisamos de uma verificação separada.
+if ! git ls-files --modified --others --exclude-standard '*.pdf' | read -r; then
+    echo "Nenhum arquivo PDF novo ou modificado encontrado."
+fi
 
 echo "---------------------------------"
-echo "Todos os arquivos PDF foram processados e enviados com sucesso."
+echo "Processo concluído."
