@@ -160,6 +160,27 @@ The files in this repository are for personal, educational use only. All copyrig
 | [Xamarin Forms Desenvolvimento de aplicações móveis multiplataforma](./Xamarin%20Forms%20Desenvolvimento%20de%20aplicações%20móveis%20multiplataforma.pdf) | A guide to cross-platform mobile application development with Xamarin Forms. | pt-BR | `Xamarin`, `Mobile`, `C#`, `Cross-platform` |
 | [Zend Certified Engineer Descomplicando a certificação PHP](./Zend%20Certified%20Engineer%20Descomplicando%20a%20certificação%20PHP.pdf) | A guide to demystifying the Zend Certified Engineer certification for PHP. | pt-BR | `PHP`, `Zend`, `Certification` |
 
+## Scripts de Automação
+
+Este repositório utiliza scripts para automatizar tarefas de manutenção e organização.
+
+### `scripts/commit_and_push_batched.py`
+
+Este script Python automatiza o processo de adicionar, commitar e enviar (push) arquivos PDF novos ou modificados para o repositório remoto. Ele foi projetado para lidar com a restrição de tamanho de `push` (máximo de 50MB por operação), agrupando os arquivos em lotes para otimizar o processo, mas garantindo que nenhum `push` exceda o limite.
+
+**Como usar:**
+
+1.  Certifique-se de ter o Python 3 instalado em seu sistema.
+2.  Navegue até a raiz do repositório no seu terminal.
+3.  Execute o script:
+    ```bash
+    python scripts/commit_and_push_batched.py
+    ```
+
+O script irá detectar automaticamente os arquivos PDF que foram adicionados ou modificados, agrupá-los em lotes (respeitando o limite de 50MB por `push`), e então realizar as operações de `git add`, `git commit` e `git git push` para cada lote.
+
+**Observação:** Se um único arquivo PDF for maior que 50MB, ele não poderá ser enviado para o repositório devido à restrição de tamanho.
+
 ---
 
 *This README was generated to help organize this personal library. Happy reading!*
