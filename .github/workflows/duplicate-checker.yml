@@ -1,0 +1,21 @@
+name: Checar Arquivos Duplicados
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-duplicates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. Checar o código do repositório
+        uses: actions/checkout@v3
+
+      - name: 2. Tornar script executável
+        run: chmod +x ./scripts/find_duplicates.sh
+
+      - name: 3. Rodar verificação de duplicatas
+        run: ./scripts/find_duplicates.sh --fail

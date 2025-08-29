@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script para encontrar e, opcionalmente, limpar arquivos duplicados de forma eficiente.
+# Script para encontrar e, opcionalmente, limpar arquivos duplicados ou falhar para uso em CI.
 
 # Garante que o script funcione a partir da raiz do projeto
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
@@ -13,6 +13,8 @@ if [ "$1" == "--interactive-delete" ]; then
   MODE="interactive"
 elif [ "$1" == "-y" ]; then
   MODE="auto_delete"
+elif [ "$1" == "--fail" ]; then
+  MODE="fail"
 fi
 
 # --- Configuração do Diretório da Lixeira ---
@@ -41,30 +43,36 @@ echo "Passo 2/2: Analisando e agrupando os resultados..."
 echo "---------------------------------"
 
 # --- LÓGICA PRINCIPAL ---
+AWK_SCRIPT='
+  function print_if_duplicate() { if (count > 1) { printf "Os %d arquivos a seguir são idênticos (hash: %s):\n", count, previous_hash; print file_list; printf "\n"; found_duplicates = 1; } }
+  { current_hash = $1; current_file = ""; for (i = 2; i <= NF; i++) { current_file = current_file (i == 2 ? "" : " ") $i; } if (NR > 1 && current_hash != previous_hash) { print_if_duplicate(); count = 0; file_list = ""; } previous_hash = current_hash; count++; file_list = file_list (file_list == "" ? "" : "\n") "  - " current_file; }
+  END { print_if_duplicate(); exit !found_duplicates; }'
+
 case "$MODE" in
+  "fail")
+    echo "Modo CI: Verificando se existem duplicatas..."
+    DUPLICATES_LIST=$(sort "$TEMP_FILE" | awk "$AWK_SCRIPT")
+    AWK_EXIT_CODE=$?
+    if [ $AWK_EXIT_CODE -eq 0 ]; then
+      echo "ERRO: Arquivos duplicados foram encontrados! A verificação falhou."
+      echo "---------------------------------"
+      echo "$DUPLICATES_LIST"
+      exit 1
+    else
+      echo "Nenhum arquivo duplicado encontrado. Verificação passou."
+      exit 0
+    fi
+    ;;
+
   "auto_delete")
     echo "Iniciando limpeza automática (modo -y)..."
-    # Pega apenas os hashes que são duplicados
     cut -c -32 "$TEMP_FILE" | sort | uniq -d | while read -r hash; do
       echo "Processando grupo de duplicatas (hash: $hash):"
       mapfile -t files < <(grep "^$hash" "$TEMP_FILE" | cut -c 35-)
-      
-      # Encontra o arquivo a ser mantido (caminho mais curto)
       shortest_file="${files[0]}"
-      for file in "${files[@]}"; do
-        if [ ${#file} -lt ${#shortest_file} ]; then
-          shortest_file="$file"
-        fi
-      done
+      for file in "${files[@]}"; do if [ ${#file} -lt ${#shortest_file} ]; then shortest_file="$file"; fi; done
       echo "  - Mantendo: '$shortest_file'"
-
-      # Move os outros para a lixeira
-      for file in "${files[@]}"; do
-        if [ "$file" != "$shortest_file" ]; then
-          echo "  - Movendo para lixeira: '$file'"
-          mv -- "$file" "$TRASH_DIR/$(basename -- "$file").$(date +%s)"
-        fi
-      done
+      for file in "${files[@]}"; do if [ "$file" != "$shortest_file" ]; then echo "  - Movendo para lixeira: '$file'"; mv -- "$file" "$TRASH_DIR/$(basename -- "$file").$(date +%s)"; fi; done
     done
     echo "---------------------------------"
     echo "Limpeza automática concluída."
@@ -92,12 +100,9 @@ case "$MODE" in
     echo "Limpeza interativa concluída."
     ;;
 
-  *)
+  *) 
     # Modo padrão: apenas listar
-    DUPLICATES_LIST=$(sort "$TEMP_FILE" | awk '
-      function print_if_duplicate() { if (count > 1) { printf "Os %d arquivos a seguir são idênticos (hash: %s):\n", count, previous_hash; print file_list; printf "\n"; found_duplicates = 1; } }
-      { current_hash = $1; current_file = ""; for (i = 2; i <= NF; i++) { current_file = current_file (i == 2 ? "" : " ") $i; } if (NR > 1 && current_hash != previous_hash) { print_if_duplicate(); count = 0; file_list = ""; } previous_hash = current_hash; count++; file_list = file_list (file_list == "" ? "" : "\n") "  - " current_file; }
-      END { print_if_duplicate(); exit !found_duplicates; }')
+    DUPLICATES_LIST=$(sort "$TEMP_FILE" | awk "$AWK_SCRIPT")
     AWK_EXIT_CODE=$?
     if [ $AWK_EXIT_CODE -eq 0 ]; then
       echo "Arquivos duplicados encontrados:"
