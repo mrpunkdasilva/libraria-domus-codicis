@@ -10,156 +10,455 @@ The files in this repository are for personal, educational use only. All copyrig
 
 | Book Title | Description | Language | Tags |
 | :--- | :--- | :--- | :--- |
-| [A jornada do empreendedor - O heroi da nossa Era](./A%20jornada%20do%20empreendedor%20-%20O%20heroi%20da%20nossa%20Era.pdf) | Explores the entrepreneur's journey in the modern era. | pt-BR | `Entrepreneurship`, `Career`, `Business` |
-| [A Lógica do Jogo - Recriando Clássicos da História dos Videogames](./A%20Lógica%20do%20Jogo%20-%20Recriando%20Clássicos%20da%20História%20dos%20Videogames.pdf) | A book on game logic, focused on recreating classic video games. | pt-BR | `Game Development`, `Programming Logic` |
-| [A Web Mobile Programe para um mundo de muitos dispositivos](./A%20Web%20Mobile%20Programe%20para%20um%20mundo%20de%20muitos%20dispositivos.pdf) | A guide to mobile web development for a multi-device world. | pt-BR | `Web`, `Mobile`, `Frontend` |
-| [ABAP - O guia de Sobrevivencia do Profissional Moderno](./ABAP%20-%20O%20guia%20de%20Sobrevivencia%20do%20Profissional%20Moderno.pdf) | A survival guide for the modern ABAP professional. | pt-BR | `ABAP`, `SAP`, `Programming` |
-| [Agile - Desenvolvimento de Software com Entregas Frequentes e Foco no Valor de Negócio](./Agile%20-%20Desenvolvimento%20de%20Software%20com%20Entregas%20Frequentes%20e%20Foco%20no%20Valor%20de%20Negócio.pdf) | A guide to Agile software development, focusing on frequent deliveries and business value. | pt-BR | `Agile`, `Methodology`, `Project Management` |
-| [Amazon AWS - Descomplicando a computacao na nuvem](./Amazon%20AWS%20-%20Descomplicando%20a%20computacao%20na%20nuvem.pdf) | A guide to simplifying cloud computing with Amazon AWS. | pt-BR | `Cloud`, `AWS`, `DevOps` |
-| [Aplicações Java para web com JSF e JPA](./Aplicações%20Java%20para%20web%20com%20JSF%20e%20JPA.pdf) | Learn to build Java web applications using JSF and JPA. | pt-BR | `Java`, `JSF`, `JPA`, `Web` |
-| [Aplicações mobile híbridas com Cordova e PhoneGap](./Aplicações%20mobile%20híbridas%20com%20Cordova%20e%20PhoneGap.pdf) | Develop hybrid mobile applications with Cordova and PhoneGap. | pt-BR | `Mobile`, `Hybrid`, `Cordova`, `PhoneGap` |
-| [Arduino Guia para colocar suas ideias em prática](./Arduino%20Guia%20para%20colocar%20suas%20ideias%20em%20prática.pdf) | A practical guide to bringing your ideas to life with Arduino. | pt-BR | `Arduino`, `IoT`, `Hardware` |
-| [Arduino prático - 10 projetos para executar, aprender, modificar e dominar o mundo](./Arduino%20prático%20-%2010%20projetos%20para%20executar,%20aprender,%20modificar%20e%20dominar%20o%20mundo.pdf) | 10 practical projects to learn and master Arduino. | pt-BR | `Arduino`, `IoT`, `Hardware`, `DIY` |
-| [Armazenando dados com Redis](./Armazenando%20dados%20com%20Redis.pdf) | A guide on data storage using Redis. | pt-BR | `Database`, `NoSQL`, `Redis` |
-| [ASP.NET MVC 5 Crie Aplicações web na plataforma Microsoft](./ASP.NET%20MVC%205%20Crie%20Aplicações%20web%20na%20plataforma%20Microsoft.pdf) | Create web applications on the Microsoft platform with ASP.NET MVC 5. | pt-BR | `ASP.NET`, `MVC`, `C#`, `Microsoft` |
-| [Azure Coloque suas plataformas e serviços no cloud](./Azure%20Coloque%20suas%20plataformas%20e%20serviços%20no%20cloud.pdf) | A guide to deploying platforms and services on the Azure cloud. | pt-BR | `Cloud`, `Azure`, `Microsoft`, `DevOps` |
-| [Beginning C# 7 Programming with Visual Studio 2017](./Beginning%20C%23%207%20Programming%20with%20Visual%20Studio%20%202017%20(%20PDFDrive%20).pdf) | An introductory guide to programming in C# 7 using Visual Studio 2017. | en-US | `C#`, `.NET`, `Programming`, `Microsoft` |
-| [Beginning C# Game Programming](./Beginning%20C%23%20Game%20Programming.pdf) | An introductory guide to game programming using C#. | en-US | `C#`, `Game Development`, `Programming` |
-| [Big Data Técnicas e tecnologias para extração de valor dos dados](./Big%20Data%20Técnicas%20e%20tecnologias%20para%20extração%20de%20valor%20dos%20dados.pdf) | Techniques and technologies for extracting value from data. | pt-BR | `Big Data`, `Data Science`, `Analytics` |
-| [Blazor in Action](./Blazor%20in%20Action.pdf) | A practical guide to building applications with Blazor. | en-US | `Blazor`, `C#`, `.NET`, `Web` |
-| [Blazor-for-ASP-NET-Web-Forms-Developers](./Blazor-for-ASP-NET-Web-Forms-Developers.pdf) | A guide for ASP.NET Web Forms developers transitioning to Blazor. | en-US | `Blazor`, `ASP.NET`, `C#`, `Web` |
-| [Business Intelligence - Implementar do jeito certo e a custo zero](./Business%20Intelligence%20-%20Implementar%20do%20jeito%20certo%20e%20a%20custo%20zero.pdf) | How to implement Business Intelligence correctly and at zero cost. | pt-BR | `BI`, `Data`, `Business` |
-| [C# AND .NET](./C%23%20AND%20.NET.pdf) | A book covering the C# language and the .NET framework. | en-US | `C#`, `.NET`, `Programming` |
-| [C# e Visual Studio - Desenvolvimento de aplicacoes desktop](./C%23%20e%20Visual%20Studio%20-%20Desenvolvimento%20de%20aplicacoes%20desktop.pdf) | Desktop application development with C# and Visual Studio. | pt-BR | `C#`, `Desktop`, `Visual Studio` |
-| [Caixa de Ferramentas DevOps - Um guia para construcao, administracao e arquitetura de sistemas modernos](./Caixa%20de%20Ferramentas%20DevOps%20-%20Um%20guia%20para%20construcao,%20administracao%20e%20arquitetura%20de%20sistemas%20modernos.pdf) | A guide to the tools for building, administering, and architecting modern systems. | pt-BR | `DevOps`, `Tools`, `Architecture` |
-| [CDI Integre as Dependencias E Contextos do Seu Codigo Java](./CDI%20Integre%20as%20Dependencias%20E%20Contextos%20do%20Seu%20Codigo%20Java.pdf) | Learn to integrate dependencies and contexts in your Java code with CDI. | pt-BR | `Java`, `CDI`, `Dependency Injection` |
-| [CodeIgniter - Produtividade na criação de aplicações web em PHP](./CodeIgniter%20-%20Produtividade%20na%20criação%20de%20aplicações%20web%20em%20PHP.pdf) | A guide to productivity in creating web applications with PHP and CodeIgniter. | pt-BR | `PHP`, `CodeIgniter`, `Web` |
-| [Coletanea Front-End - Uma Antologia da Comunidade Front End Brasileira](./Coletanea%20Front-End%20-%20Uma%20Antologia%20da%20Comunidade%20Front%20End%20Brasileira.pdf) | An anthology from the Brazilian Front-End community. | pt-BR | `Frontend`, `Web`, `Community` |
-| [Começando com Linux Comandos, serviços e administração](./Começando%20com%20Linux%20Comandos,%20serviços%20e%20administração.pdf) | Getting started with Linux: commands, services, and administration. | pt-BR | `Linux`, `SysAdmin`, `OS` |
-| [Componentes Reutilizáveis em Java com Reflexão e Anotações](./Componentes%20Reutilizáveis%20em%20Java%20com%20Reflexão%20e%20Anotações.pdf) | Creating reusable components in Java with Reflection and Annotations. | pt-BR | `Java`, `Design Patterns`, `Architecture` |
-| [Conhecendo o Adobe Photoshop CS6](./Conhecendo%20o%20Adobe%20Photoshop%20CS6.pdf) | A guide to getting to know Adobe Photoshop CS6. | pt-BR | `Photoshop`, `Design`, `Tools` |
-| [Construindo APIs REST com Node.js](./Construindo%20APIs%20REST%20com%20Node.js.pdf) | A guide to building REST APIs with Node.js. | pt-BR | `Node.js`, `API`, `REST`, `JavaScript` |
-| [Containers com Docker Do desenvolvimento à producão](./Containers%20com%20Docker%20Do%20desenvolvimento%20à%20producão.pdf) | A guide on using Docker containers, from development to production. | pt-BR | `Docker`, `Containers`, `DevOps` |
-| [Controlando versões com Git e Github](./Controlando%20versões%20com%20Git%20e%20Github.pdf) | A guide to version control with Git and GitHub. | pt-BR | `Git`, `GitHub`, `Version Control` |
-| [Criando aplicações para o seu Windows Phone](./Criando%20aplicações%20para%20o%20seu%20Windows%20Phone.pdf) | A guide to creating applications for your Windows Phone. | pt-BR | `Windows Phone`, `Mobile`, `Microsoft` |
-| [Crie Aplicações com Angular O novo framework do Google](./Crie%20Aplicações%20com%20Angular%20O%20novo%20framework%20do%20Google.pdf) | A guide to creating applications with Angular, the new framework from Google. | pt-BR | `Angular`, `JavaScript`, `Frontend` |
-| [CSS Eficiente Técnicas e ferramentas que fazem diferença nos seus estilos](./CSS%20Eficiente%20Técnicas%20e%20ferramentas%20que%20fazem%20diferença%20nos%20seus%20estilos.pdf) | Techniques and tools for writing efficient CSS. | pt-BR | `CSS`, `Frontend`, `Web` |
-| [Cucumber e RSpec Construa aplicações Ruby e Rails com testes e especificações](./Cucumber%20e%20RSpec%20Construa%20aplicações%20Ruby%20e%20Rails%20com%20testes%20e%20especificações.pdf) | Build Ruby and Rails applications with tests and specifications using Cucumber and RSpec. | pt-BR | `Ruby`, `Rails`, `TDD`, `Testing` |
-| [Desbravando Java e Orientação a Objetos Um guia para o iniciante da linguagem](./Desbravando%20Java%20e%20Orientação%20a%20Objetos%20Um%20guia%20para%20o%20iniciante%20da%20linguagem.pdf) | A beginner's guide to Java and Object-Oriented Programming. | pt-BR | `Java`, `OOP` |
-| [Desconstruindo a Web As tecnologias por trás de uma requisição](./Desconstruindo%20a%20Web%20As%20tecnologias%20por%20trás%20de%20uma%20requisição.pdf) | Understanding the technologies behind a web request. | pt-BR | `Web`, `Networking`, `Architecture` |
-| [Desenvolva jogos com HTML5 Canvas e JavaScript](./Desenvolva%20jogos%20com%20HTML5%20Canvas%20e%20JavaScript.pdf) | Develop games with HTML5 Canvas and JavaScript. | pt-BR | `Game Development`, `HTML5`, `JavaScript` |
-| [Desenvolvimento de Jogos para Android Explore sua imaginação com o framework Cocos2D](./Desenvolvimento%20de%20Jogos%20para%20Android%20Explore%20sua%20imaginação%20com%20o%20framework%20Cocos2D.pdf) | Android game development with the Cocos2D framework. | pt-BR | `Game Development`, `Android`, `Cocos2D` |
-| [Desenvolvimento de Jogos para iOS Explore sua imaginação com o framework Cocos2D](./Desenvolvimento%20de%20Jogos%20para%20iOS%20Explore%20sua%20imaginação%20com%20o%20framework%20Cocos2D.pdf) | iOS game development with the Cocos2D framework. | pt-BR | `Game Development`, `iOS`, `Cocos2D` |
-| [Desenvolvimento web com ASP.NET MVC](./Desenvolvimento%20web%20com%20ASP.NET%20MVC.pdf) | Web development with ASP.NET MVC. | pt-BR | `ASP.NET`, `MVC`, `C#`, `Web` |
-| [Desenvolvimento web com PHP e MySQL](./Desenvolvimento%20web%20com%20PHP%20e%20MySQL.pdf) | Web development with PHP and MySQL. | pt-BR | `PHP`, `MySQL`, `Web` |
-| [Design Patterns com Java - Projeto orientado a objetos guiado por padrões](./Design%20Patterns%20com%20Java%20-%20Projeto%20orientado%20a%20objetos%20guiado%20por%20padrões.pdf) | A guide to object-oriented design with Java using design patterns. | pt-BR | `Java`, `Design Patterns`, `OOP` |
-| [DevOps Na prática - Entrega de software confiável e automatizada](./DevOps%20Na%20prática%20-%20Entrega%20de%20software%20confiável%20e%20automatizada.pdf) | A practical guide to reliable and automated software delivery. | pt-BR | `DevOps`, `CI/CD`, `Automation` |
-| [Direto ao ponto - Criando aplicacoes de forma enxuta](./Direto%20ao%20ponto%20-%20Criando%20aplicacoes%20de%20forma%20enxuta.pdf) | A guide to creating lean applications. | pt-BR | `Lean`, `Product Management`, `Agile` |
-| [Dominando JavaScript com jQuery](./Dominando%20JavaScript%20com%20jQuery.pdf) | Master JavaScript with jQuery. | pt-BR | `JavaScript`, `jQuery`, `Frontend` |
-| [Ebook-Carreira-inteligencia-artificial](./Ebook-Carreira-inteligencia-artificial.pdf) | A book about careers in Artificial Intelligence. | pt-BR | `AI`, `Career`, `Machine Learning` |
-| [ECMAScript 6 - Entre de cabeça no futuro do JavaScript](./ECMAScript%206%20-%20Entre%20de%20cabeça%20no%20futuro%20do%20JavaScript.pdf) | Dive into the future of JavaScript with ECMAScript 6. | pt-BR | `JavaScript`, `ES6`, `Frontend` |
-| [Edição e organização de fotos com Adobe Lightroom](./Edição%20e%20organização%20de%20fotos%20com%20Adobe%20Lightroom.pdf) | Photo editing and organization with Adobe Lightroom. | pt-BR | `Lightroom`, `Photography`, `Tools` |
-| [Elasticsearch consumindo dados real time com ELK](./Elasticsearch%20consumindo%20dados%20real%20time%20com%20ELK.pdf) | Consuming real-time data with Elasticsearch and the ELK stack. | pt-BR | `Elasticsearch`, `ELK`, `Data`, `DevOps` |
-| [Entrega contínua em Android Como automatizar a distribuição de apps](./Entrega%20contínua%20em%20Android%20Como%20automatizar%20a%20distribuição%20de%20apps.pdf) | A guide to automating app distribution for continuous delivery in Android. | pt-BR | `Android`, `CI/CD`, `DevOps`, `Mobile` |
-| [Explorando APIs e bibliotecas Java JDBC, IO, Threads, JavaFX e mais](./Explorando%20APIs%20e%20bibliotecas%20Java%20JDBC,%20IO,%20Threads,%20JavaFX%20e%20mais.pdf) | Exploring Java APIs and libraries like JDBC, IO, Threads, JavaFX, and more. | pt-BR | `Java`, `API`, `Library` |
-| [eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software](./eXtreme%20Programming%20-%20Práticas%20para%20o%20dia%20a%20dia%20no%20desenvolvimento%20ágil%20de%20software.pdf) | Daily practices for agile software development with eXtreme Programming. | pt-BR | `XP`, `Agile`, `Methodology` |
-| [Falando de Grails Altíssima produtividade no desenvolvimento web](./Falando%20de%20Grails%20Altíssima%20produtividade%20no%20desenvolvimento%20web.pdf) | A book about high-productivity web development with Grails. | pt-BR | `Grails`, `Groovy`, `Java`, `Web` |
-| [Fragmentos de um programador - Artigos e insights da carreira de um profissional](./Fragmentos%20de%20um%20programador%20-%20Artigos%20e%20insights%20da%20carreira%20de%20um%20profissional.pdf) | Articles and career insights from a professional programmer. | pt-BR | `Career`, `Soft Skills`, `Programming` |
-| [Gestão de produtos - Como aumentar as chances de sucesso do seu software](./Gestão%20de%20produtos%20-%20Como%20aumentar%20as%20chances%20de%20sucesso%20do%20seu%20software.pdf) | A guide on how to increase the success chances of your software. | pt-BR | `Product Management`, `Business` |
-| [Google Android - crie aplicações para celulares e tablets](./Google%20Android%20-%20crie%20aplicações%20para%20celulares%20e%20tablets.pdf) | Create applications for Android phones and tablets. | pt-BR | `Android`, `Mobile`, `Java` |
-| [Google App Engine - Construindo Servicos na Nuvem](./Google%20App%20Engine%20-%20Construindo%20Servicos%20na%20Nuvem.pdf) | Building services in the cloud with Google App Engine. | pt-BR | `Cloud`, `Google Cloud`, `PaaS` |
-| [Guia da Startup Como startups e empresas estabelecidas podem criar produtos web rentáveis](./Guia%20da%20Startup%20Como%20startups%20e%20empresas%20estabelecidas%20podem%20criar%20produtos%20web%20rentáveis.pdf) | A guide on how startups and established companies can create profitable web products. | pt-BR | `Startup`, `Business`, `Product` |
-| [Guia do mestre programador Pensando como pirata, evoluindo como jedi](./Guia%20do%20mestre%20programador%20Pensando%20como%20pirata,%20evoluindo%20como%20jedi.pdf) | A guide for the master programmer: thinking like a pirate, evolving like a jedi. | pt-BR | `Career`, `Soft Skills`, `Philosophy` |
-| [Guia Front-End - O caminho das pedras para ser um dev front-end](./Guia%20Front-End%20-%20O%20caminho%20das%20pedras%20para%20ser%20um%20dev%20front-end.pdf) | A guide on the path to becoming a front-end developer. | pt-BR | `Frontend`, `Career`, `Web` |
-| [Head.First.Csharp.4th.Edition](./Head.First.Csharp.4th.Edition.pdf) | A brain-friendly guide to C# from the Head First series. | en-US | `C#`, `.NET`, `Programming` |
-| [HTML5 e CSS3 - Domine a web do futuro](./HTML5%20e%20CSS3%20-%20Domine%20a%20web%20do%20futuro.pdf) | Master the future of the web with HTML5 and CSS3. | pt-BR | `HTML5`, `CSS3`, `Frontend` |
-| [Introdução à Arquitetura e Design de Software](./Introdução%20à%20Arquitetura%20e%20Design%20de%20Software.pdf) | An introduction to Software Architecture and Design. | pt-BR | `Architecture`, `Software Design` |
-| [Introdução à Computação Da lógica aos jogos com Ruby](./Introdução%20à%20Computação%20Da%20lógica%20aos%20jogos%20com%20Ruby.pdf) | An introduction to computing, from logic to games, with Ruby. | pt-BR | `Ruby`, `Programming`, `Logic` |
-| [Introdução à programação em C Os primeiros passos de um desenvolvedor](./Introdução%20à%20programação%20em%20C%20Os%20primeiros%20passos%20de%20um%20desenvolvedor.pdf) | A developer's first steps in C programming. | pt-BR | `C`, `Programming` |
-| [Introdução e boas práticas em UX Design](./Introdução%20e%20boas%20práticas%20em%20UX%20Design.pdf) | An introduction and best practices in UX Design. | pt-BR | `UX`, `Design`, `UI` |
-| [Ionic Framework Construa aplicativos para todas as plataformas mobile](./Ionic%20Framework%20Construa%20aplicativos%20para%20todas%20as%20plataformas%20mobile.pdf) | Build apps for all mobile platforms with the Ionic Framework. | pt-BR | `Ionic`, `Mobile`, `Hybrid`, `Angular` |
-| [iOS Programe para iPhone e iPad](./iOS%20Programe%20para%20iPhone%20e%20iPad.pdf) | A guide to programming for iPhone and iPad. | pt-BR | `iOS`, `Mobile`, `Swift` |
-| [iReport Crie relatorios praticos e elegantes](./iReport%20Crie%20relatorios%20praticos%20e%20elegantes.pdf) | Create practical and elegant reports with iReport. | pt-BR | `iReport`, `BI`, `Reporting`, `Java` |
-| [Java 8 Pratico Lambdas Streams e os Novos Recursos da Linguagem](./Java%208%20Pratico%20Lambdas%20Streams%20e%20os%20Novos%20Recursos%20da%20Linguagem.pdf) | A practical guide to Lambdas, Streams, and other new features in Java 8. | pt-BR | `Java`, `Java 8` |
-| [Java e Orientações a Objetos](./Java%20e%20Orientações%20a%20Objetos.pdf) | A book on Java and Object-Oriented programming. | pt-BR | `Java`, `OOP` |
-| [Java EE - Aproveite toda a plataforma para construir aplicacoes](./Java%20EE%20-%20Aproveite%20toda%20a%20plataforma%20para%20construir%20aplicacoes.pdf) | A guide to using the full Java EE platform to build applications. | pt-BR | `Java`, `Java EE`, `Web` |
-| [Java FX Interfaces com qualidade para aplicações desktop](./Java%20FX%20Interfaces%20com%20qualidade%20para%20aplicações%20desktop.pdf) | Building quality interfaces for desktop applications with JavaFX. | pt-BR | `Java`, `JavaFX`, `Desktop`, `UI` |
-| [Java SE 7 Programmer I - O guia para sua certificação Oracle Certified Associate](./Java%20SE%207%20Programmer%20I%20-%20O%20guia%20para%20sua%20certificação%20Oracle%20Certified%20Associate.pdf) | A guide for the Oracle Certified Associate, Java SE 7 Programmer I certification. | pt-BR | `Java`, `Certification`, `Oracle` |
-| [Jeff Tian-Software Quality Engineering](./Jeff%20Tian-Software%20Quality%20Engineering_%20Testing,%20Quality%20Assurance,%20and%20Quantifiable%20Improvement-Wiley-IEEE%20Computer%20Society%20Press%20(2005).pdf) | A comprehensive book on Software Quality Engineering, covering testing, QA, and quantifiable improvement. | en-US | `QA`, `Testing`, `Software Engineering` |
-| [Jenkins - Automatize tudo sem complicacoes](./Jenkins%20-%20%20Automatize%20tudo%20sem%20complicacoes.pdf) | A guide to automating everything with Jenkins without complications. | pt-BR | `Jenkins`, `CI/CD`, `DevOps`, `Automation` |
-| [Jogos Android - Crie um game do zero usando classes nativas](./Jogos%20Android%20-%20Crie%20um%20game%20do%20zero%20usando%20classes%20nativas.pdf) | Create an Android game from scratch using native classes. | pt-BR | `Game Development`, `Android`, `Java` |
-| [Jogos em HTML5 Explore o mobile e física](./Jogos%20em%20HTML5%20Explore%20o%20mobile%20e%20física.pdf) | Explore mobile and physics in HTML5 games. | pt-BR | `Game Development`, `HTML5`, `JavaScript` |
-| [JPA Eficaz - As melhores praticas de persistencia de dados em Java](./JPA%20Eficaz%20-%20As%20melhores%20praticas%20de%20persistencia%20de%20dados%20em%20Java.pdf) | Best practices for data persistence in Java with JPA. | pt-BR | `Java`, `JPA`, `Persistence`, `Database` |
-| [jQuery Mobile - Desenvolva interfaces para multiplos dispositivos](./jQuery%20Mobile%20-%20Desenvolva%20interfaces%20para%20multiplos%20dispositivos.pdf) | Develop interfaces for multiple devices with jQuery Mobile. | pt-BR | `jQuery`, `Mobile`, `Frontend` |
-| [JSF Eficaz - As melhores práticas para o desenvolvedor web Java](./JSF%20Eficaz%20-%20As%20melhores%20práticas%20para%20o%20desenvolvedor%20web%20Java.pdf) | Best practices for the Java web developer using JSF. | pt-BR | `Java`, `JSF`, `Web` |
-| [LEAN ENTERPRISE - Como empresas de alta performance inovam em escala](./LEAN%20ENTERPRISE%20-%20Como%20empresas%20de%20alta%20performance%20inovam%20em%20escala.pdf) | How high-performance companies innovate at scale. | pt-BR | `Lean`, `Enterprise`, `Business`, `Agile` |
-| [Learning 3.0 Como os profissionais criativos aprendem](./Learning%203.0%20Como%20os%20profissionais%20criativos%20aprendem.pdf) | How creative professionals learn. | pt-BR | `Learning`, `Career`, `Soft Skills` |
-| [livro-vue-sample](./livro-vue-sample.pdf) | A sample book about the Vue.js framework. | pt-BR | `Vue.js`, `JavaScript`, `Frontend` |
-| [Logica de programacao - Crie seus primeiros programas usando javascript e html](./Logica%20de%20programacao%20-%20Crie%20seus%20primeiros%20programas%20usando%20javascript%20e%20html.pdf) | Create your first programs using JavaScript and HTML. | pt-BR | `Programming Logic`, `JavaScript`, `HTML` |
-| [Mean Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](./Mean%20Full%20stack%20JavaScript%20para%20aplicações%20web%20com%20MongoDB,%20Express,%20Angular%20e%20Node.pdf) | A guide to the MEAN stack (MongoDB, Express, Angular, Node). | pt-BR | `MEAN`, `JavaScript`, `Full-Stack` |
-| [Meteor Criando aplicações web realtime com JavaScript](./Meteor%20Criando%20aplicações%20web%20realtime%20com%20JavaScript.pdf) | Creating real-time web applications with Meteor and JavaScript. | pt-BR | `Meteor`, `JavaScript`, `Real-time`, `Web` |
-| [Métricas Ágeis Obtenha melhores resultados em sua equipe](./Métricas%20Ágeis%20Obtenha%20melhores%20resultados%20em%20sua%20equipe.pdf) | A guide to agile metrics for achieving better team results. | pt-BR | `Agile`, `Metrics`, `Management` |
-| [Microsoft Kinect - Crie aplicações interativas com o Microsoft Kinect](./Microsoft%20Kinect%20-%20Crie%20aplicações%20interativas%20com%20o%20Microsoft%20Kinect.pdf) | Create interactive applications with the Microsoft Kinect. | pt-BR | `Kinect`, `Hardware`, `C#` |
-| [Microsoft Visual C# - Step by Step](./Microsoft%20Visual%20C%23%20-%20Step%20by%20Step.pdf) | A step-by-step guide to learning Microsoft Visual C#. | en-US | `C#`, `.NET`, `Microsoft` |
-| [Microsoft.Blazor.3rd.Edition.Peter.Himschoot.Apress.978148427844.EBooksWorld.ir](./Microsoft.Blazor.3rd.Edition.Peter.Himschoot.Apress.978148427844.EBooksWorld.ir.pdf) | The 3rd Edition of a book on Microsoft Blazor. | en-US | `Blazor`, `C#`, `.NET`, `Web` |
-| [MongoDB Construa novas aplicações com novas tecnologias](./MongoDB%20Construa%20novas%20aplicações%20com%20novas%20tecnologias.pdf) | Build new applications with new technologies, featuring MongoDB. | pt-BR | `MongoDB`, `NoSQL`, `Database` |
-| [MundoJ Java efetivo](./MundoJ%20Java%20efetivo.pdf) | A book on effective Java from the MundoJ series. | pt-BR | `Java`, `Best Practices` |
-| [MundoJ Orientação a Objetos](./MundoJ%20Orientação%20a%20Objetos.pdf) | A book on Object-Oriented programming from the MundoJ series. | pt-BR | `Java`, `OOP` |
-| [MundoJ Segurança com Java](./MundoJ%20Segurança%20com%20Java.pdf) | A book on security with Java from the MundoJ series. | pt-BR | `Java`, `Security` |
-| [MySQL Comece com o principal banco de dados open source do mercado](./MySQL%20Comece%20com%20o%20principal%20banco%20de%20dados%20open%20source%20do%20mercado.pdf) | Get started with the leading open-source database on the market. | pt-BR | `MySQL`, `Database`, `SQL` |
-| [NetworkProgramming](./NetworkProgramming.pdf) | A book on network programming concepts. | en-US | `Networking`, `Programming` |
-| [Node.js Aplicações web real-time com Node.js](./Node.js%20Aplicações%20web%20real-time%20com%20Node.js.pdf) | Real-time web applications with Node.js. | pt-BR | `Node.js`, `JavaScript`, `Real-time` |
-| [NoSQL Como armazenar os dados de uma aplicação moderna](./NoSQL%20Como%20armazenar%20os%20dados%20de%20uma%20aplicação%20moderna.pdf) | How to store data for a modern application using NoSQL. | pt-BR | `NoSQL`, `Database`, `Architecture` |
-| [O canivete suíço do desenvolvedor Node](./O%20canivete%20suíço%20do%20desenvolvedor%20Node.pdf) | The Swiss army knife for the Node.js developer. | pt-BR | `Node.js`, `JavaScript`, `Tools` |
-| [O Mantra da Produtividade Aprimore sua produtividade com técnicas de foco e organização pessoal](./O%20Mantra%20da%20Produtividade%20Aprimore%20sua%20produtividade%20com%20técnicas%20de%20foco%20e%20organização%20pessoal.pdf) | Improve your productivity with focus and personal organization techniques. | pt-BR | `Productivity`, `Career`, `Soft Skills` |
-| [O Programador Apaixonado Construindo uma carreira notável em desenvolvimento de software](./O%20Programador%20Apaixonado%20Construindo%20uma%20carreira%20notável%20em%20desenvolvimento%20de%20software.pdf) | Building a remarkable career in software development. | pt-BR | `Career`, `Soft Skills`, `Programming` |
-| [object-oriented-programming-using-c-sharp](./object-oriented-programming-using-c-sharp.pdf) | A guide to Object-Oriented Programming using C#. | en-US | `OOP`, `C#`, `.NET` |
-| [OCaml Programação funcional na prática](./OCaml%20Programação%20funcional%20na%20prática.pdf) | Functional programming in practice with OCaml. | pt-BR | `OCaml`, `Functional Programming` |
-| [Octave Seus primeiros passos na programação científica](./Octave%20Seus%20primeiros%20passos%20na%20programação%20científica.pdf) | Your first steps in scientific programming with Octave. | pt-BR | `Octave`, `Scientific Programming`, `Data` |
-| [oop-devmedia](./oop-devmedia.pdf) | A book about Object-Oriented Programming from DevMedia. | pt-BR | `OOP`, `Programming` |
-| [Orientação a Objetos Aprenda seus conceitos e suas aplicabilidades de forma efetiva](./Orientação%20a%20Objetos%20Aprenda%20seus%20conceitos%20e%20suas%20aplicabilidades%20de%20forma%20efetiva.pdf) | Learn the concepts and applications of OOP effectively. | pt-BR | `OOP`, `Programming` |
-| [Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis](./Orientação%20a%20Objetos%20e%20SOLID%20para%20Ninjas%20Projetando%20classes%20flexíveis.pdf) | A guide to OOP and SOLID for designing flexible classes. | pt-BR | `OOP`, `SOLID`, `Design Principles` |
-| [PHP e Laravel Crie aplicações web como um verdadeiro artesão](./PHP%20e%20Laravel%20Crie%20aplicações%20web%20como%20um%20verdadeiro%20artesão.pdf) | Create web applications like a true craftsman with PHP and Laravel. | pt-BR | `PHP`, `Laravel`, `Web` |
-| [php-programando-com-orientacao-a-objetos](./php-programando-com-orientacao-a-objetos.pdf) | A guide to programming with Object-Orientation in PHP. | pt-BR | `PHP`, `OOP` |
-| [Play Framework Java para web sem servlets e com diversão](./Play%20Framework%20Java%20para%20web%20sem%20servlets%20e%20com%20diversão.pdf) | Java for the web without servlets and with fun, using the Play Framework. | pt-BR | `Java`, `Play Framework`, `Web` |
-| [PLSQL Domine a linguagem do banco de dados Oracle](./PLSQL%20Domine%20a%20linguagem%20do%20banco%20de%20dados%20Oracle.pdf) | Master the Oracle database language, PL/SQL. | pt-BR | `PL/SQL`, `Oracle`, `Database` |
-| [PostgreSQL Banco de dados para aplicações web modernas](./PostgreSQL%20Banco%20de%20dados%20para%20aplicações%20web%20modernas.pdf) | A guide to using PostgreSQL for modern web applications. | pt-BR | `PostgreSQL`, `Database`, `SQL` |
-| [Programando em Go Crie aplicações com a linguagem do Google](./Programando%20em%20Go%20Crie%20aplicações%20com%20a%20linguagem%20do%20Google.pdf) | Create applications with Google's language, Go. | pt-BR | `Go`, `Programming` |
-| [Protractor Lições sobre testes end-to-end automatizados](./Protractor%20Lições%20sobre%20testes%20end-to-end%20automatizados.pdf) | Lessons on automated end-to-end testing with Protractor. | pt-BR | `Testing`, `E2E`, `Protractor`, `JavaScript` |
-| [Python Escreva seus primeiros programas](./Python%20Escreva%20seus%20primeiros%20programas.pdf) | A guide to writing your first programs in Python. | pt-BR | `Python`, `Programming` |
-| [Refatorando com padrões de projeto Um guia em Ruby](./Refatorando%20com%20padrões%20de%20projeto%20Um%20guia%20em%20Ruby.pdf) | A guide to refactoring with design patterns in Ruby. | pt-BR | `Ruby`, `Refactoring`, `Design Patterns` |
-| [REST Construa API_s inteligentes de maneira simples](./REST%20Construa%20API_s%20inteligentes%20de%20maneira%20simples.pdf) | Build intelligent APIs in a simple way with REST. | pt-BR | `REST`, `API`, `Architecture` |
-| [RSpec Crie especificações executáveis em Ruby](./RSpec%20Crie%20especificações%20executáveis%20em%20Ruby.pdf) | Create executable specifications in Ruby with RSpec. | pt-BR | `Ruby`, `RSpec`, `TDD`, `Testing` |
-| [Ruby Aprenda a programar na linguagem mais divertida](./Ruby%20Aprenda%20a%20programar%20na%20linguagem%20mais%20divertida.pdf) | Learn to program in the most fun language, Ruby. | pt-BR | `Ruby`, `Programming` |
-| [Ruby on Rails Coloque sua aplicação web nos trilhos](./Ruby%20on%20Rails%20Coloque%20sua%20aplicação%20web%20nos%20trilhos.pdf) | Put your web application on the rails with Ruby on Rails. | pt-BR | `Ruby on Rails`, `Ruby`, `Web` |
-| [Sass Aprendendo pré-processadores CSS](./Sass%20Aprendendo%20pré-processadores%20CSS.pdf) | A guide to learning the CSS pre-processor, Sass. | pt-BR | `Sass`, `CSS`, `Frontend` |
-| [Scala Como escalar sua produtividade](./Scala%20Como%20escalar%20sua%20produtividade.pdf) | How to scale your productivity with Scala. | pt-BR | `Scala`, `Functional Programming` |
-| [Scratch Um jeito divertido de aprender programação](./Scratch%20Um%20jeito%20divertido%20de%20aprender%20programação.pdf) | A fun way to learn programming with Scratch. | pt-BR | `Scratch`, `Education`, `Programming Logic` |
-| [Scrum 360 Um guia completo e prático de agilidade](./Scrum%20360%20Um%20guia%20completo%20e%20prático%20de%20agilidade.pdf) | A complete and practical guide to agility with Scrum. | pt-BR | `Scrum`, `Agile`, `Methodology` |
-| [Scrum Gestão Ágil para Projetos de Sucesso](./Scrum%20Gestão%20Ágil%20para%20Projetos%20de%20Sucesso.pdf) | Agile management for successful projects with Scrum. | pt-BR | `Scrum`, `Agile`, `Project Management` |
-| [Segurança Em aplicações web](./Segurança%20Em%20aplicações%20web.pdf) | A book about security in web applications. | pt-BR | `Security`, `Web` |
-| [SEO Prático Seu site na primeira página das buscas](./SEO%20Prático%20Seu%20site%20na%20primeira%20página%20das%20buscas.pdf) | A practical guide to getting your site on the first page of search results. | pt-BR | `SEO`, `Marketing`, `Web` |
-| [SOA aplicado Integrando com web services e além](./SOA%20aplicado%20Integrando%20com%20web%20services%20e%20além.pdf) | Applied SOA: Integrating with web services and beyond. | pt-BR | `SOA`, `Architecture`, `Web Services` |
-| [Software Quality Assurance - From Theory to Implementation](./Software%20Quality%20Assurance%20-%20From%20Theory%20to%20Implementation.pdf) | A book covering the theory and implementation of SQA. | en-US | `SQA`, `QA`, `Testing` |
-| [Software Quality Engineering - CS611 Handouts](./Software%20Quality%20Engineering%20-%20CS611%20Handouts.pdf) | Handouts for a course on Software Quality Engineering. | en-US | `SQE`, `QA`, `Education` |
-| [Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement](./Software%20Quality%20Engineering:%20Testing,%20Quality%20Assurance,%20and%20Quantifiable%20Improvement.pdf) | A book on testing, quality assurance, and quantifiable improvement in software. | en-US | `SQE`, `QA`, `Testing` |
-| [Spring MVC Domine o principal framework web Java](./Spring%20MVC%20Domine%20o%20principal%20framework%20web%20Java.pdf) | Master the main Java web framework, Spring MVC. | pt-BR | `Java`, `Spring`, `MVC`, `Web` |
-| [SQL Uma abordagem para bancos de dados Oracle](./SQL%20Uma%20abordagem%20para%20bancos%20de%20dados%20Oracle.pdf) | An approach to SQL for Oracle databases. | pt-BR | `SQL`, `Oracle`, `Database` |
-| [Swift Programe para iPhone e iPad](./Swift%20Programe%20para%20iPhone%20e%20iPad.pdf) | A guide to programming for iPhone and iPad with Swift. | pt-BR | `Swift`, `iOS`, `Mobile` |
-| [Test-Driven Development Teste e Design no Mundo Real com .NET](./Test-Driven%20Development%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20.NET.pdf) | Real-world Test-Driven Development with .NET. | pt-BR | `TDD`, `.NET`, `Testing`, `C#` |
-| [Test-Driven Development Teste e Design no Mundo Real com Java](./Test-Driven%20Development%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20Java.pdf) | Real-world Test-Driven Development with Java. | pt-BR | `TDD`, `Java`, `Testing` |
-| [Test-Driven Development Teste e Design no Mundo Real com PHP](./Test-Driven%20Development%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20PHP.pdf) | Real-world Test-Driven Development with PHP. | pt-BR | `TDD`, `PHP`, `Testing` |
-| [Test-Driven Development Teste e Design no Mundo Real com Ruby](./Test-Driven%20Development%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20Ruby.pdf) | Real-world Test-Driven Development with Ruby. | pt-BR | `TDD`, `Ruby`, `Testing` |
-| [Testes Automatizados de Software Um guia prático](./Testes%20Automatizados%20de%20Software%20Um%20guia%20prático.pdf) | A practical guide to automated software testing. | pt-BR | `Testing`, `Automation`, `QA` |
-| [Turbine seu CSS Folhas de estilo inteligentes com Sass](./Turbine%20seu%20CSS%20Folhas%20de%20estilo%20inteligentes%20com%20Sass.pdf) | Supercharge your CSS with intelligent stylesheets using Sass. | pt-BR | `CSS`, `Sass`, `Frontend` |
-| [Vire o jogo com Spring Framework](./Vire%20o%20jogo%20com%20Spring%20Framework.pdf) | Change the game with the Spring Framework. | pt-BR | `Java`, `Spring`, `Web` |
-| [VRaptor Desenvolvimento Ágil para Web com Java](./VRaptor%20Desenvolvimento%20Ágil%20para%20Web%20com%20Java.pdf) | Agile web development with Java using VRaptor. | pt-BR | `Java`, `VRaptor`, `Web`, `Agile` |
-| [Web Design Responsivo Páginas adaptáveis para todos os dispositivos](./Web%20Design%20Responsivo%20Páginas%20adaptáveis%20para%20todos%20os%20dispositivos.pdf) | A guide to creating adaptable pages for all devices. | pt-BR | `Responsive Design`, `CSS`, `HTML`, `Frontend` |
-| [Web Services REST com ASP .NET Web API e Windows Azure](./Web%20Services%20REST%20com%20ASP%20.NET%20Web%20API%20e%20Windows%20Azure.pdf) | A guide to REST Web Services with ASP.NET Web API and Windows Azure. | pt-BR | `ASP.NET`, `Web API`, `REST`, `Azure` |
-| [Windows Server 2012 R2 Estudo dirigido para MCSA prova 70-410](./Windows%20Server%202012%20R2%20Estudo%20dirigido%20para%20MCSA%20prova%2070-410.pdf) | A study guide for the MCSA exam 70-410 on Windows Server 2012 R2. | pt-BR | `Windows Server`, `Microsoft`, `Certification` |
-| [Xamarin Forms Desenvolvimento de aplicações móveis multiplataforma](./Xamarin%20Forms%20Desenvolvimento%20de%20aplicações%20móveis%20multiplataforma.pdf) | A guide to cross-platform mobile application development with Xamarin Forms. | pt-BR | `Xamarin`, `Mobile`, `C#`, `Cross-platform` |
-| [Zend Certified Engineer Descomplicando a certificação PHP](./Zend%20Certified%20Engineer%20Descomplicando%20a%20certificação%20PHP.pdf) | A guide to demystifying the Zend Certified Engineer certification for PHP. | pt-BR | `PHP`, `Zend`, `Certification` |
-
+| Book Title | Description | Language | Tags |
+| :--- | :--- | :--- | :--- |
+| [002C63AF 91C6 4D38 91F4 266B955FA3CC](./miscellaneous/002C63AF_91C6_4D38_91F4_266B955FA3CC.pdf) |  |  |  |
+| [008AEBDB 0D82 4BDA BB1C F9AE113DA3B3](./miscellaneous/008AEBDB_0D82_4BDA_BB1C_F9AE113DA3B3.pdf) |  |  |  |
+| [04087E9A 7E92 4C9E 8354 4DE45283679D](./miscellaneous/04087E9A_7E92_4C9E_8354_4DE45283679D.pdf) |  |  |  |
+| [0638ED46 90B8 431B 82B9 957D872AEA53](./miscellaneous/0638ED46_90B8_431B_82B9_957D872AEA53.pdf) |  |  |  |
+| [06CE7FF5 535E 4F3A BDD0 AB55743B8622](./miscellaneous/06CE7FF5_535E_4F3A_BDD0_AB55743B8622.pdf) |  |  |  |
+| [0A3913F3 CA15 46BB A8C3 AF0EA95EF273](./miscellaneous/0A3913F3_CA15_46BB_A8C3_AF0EA95EF273.pdf) |  |  |  |
+| [0BE87EAA 7484 423D BE44 28F07394CF6D](./miscellaneous/0BE87EAA_7484_423D_BE44_28F07394CF6D.pdf) |  |  |  |
+| [0C5B7138 12DF 44FD 8DD3 8914C259EAFA](./miscellaneous/0C5B7138_12DF_44FD_8DD3_8914C259EAFA.pdf) |  |  |  |
+| [0CB81D40 1052 4FF2 91AD 0F0A63AC4BEB](./miscellaneous/0CB81D40_1052_4FF2_91AD_0F0A63AC4BEB.pdf) |  |  |  |
+| [0D285326 70C3 4943 B840 1BA72C3B3AB4](./miscellaneous/0D285326_70C3_4943_B840_1BA72C3B3AB4.pdf) |  |  |  |
+| [10B652D5 4B29 408F 884C C1D3AA3AD5C0](./miscellaneous/10B652D5_4B29_408F_884C_C1D3AA3AD5C0.pdf) |  |  |  |
+| [174FED28 6FDA 4559 B553 12B80EEEC1CA](./miscellaneous/174FED28_6FDA_4559_B553_12B80EEEC1CA.pdf) |  |  |  |
+| [18B58742 D5DD 44C4 B701 46A7DC0D3CCF](./miscellaneous/18B58742_D5DD_44C4_B701_46A7DC0D3CCF.pdf) |  |  |  |
+| [19468C4D B8E0 4FAE 933B FEF3E2815B33](./miscellaneous/19468C4D_B8E0_4FAE_933B_FEF3E2815B33.pdf) |  |  |  |
+| [1D64D728 CE84 47AE 8EE1 B9B09F542123](./miscellaneous/1D64D728_CE84_47AE_8EE1_B9B09F542123.pdf) |  |  |  |
+| [1D9351B8 580D 4CD5 9603 CA2ED8603206](./miscellaneous/1D9351B8_580D_4CD5_9603_CA2ED8603206.pdf) |  |  |  |
+| [1F5569CB B538 45D2 B119 D9AD1A28557B](./miscellaneous/1F5569CB_B538_45D2_B119_D9AD1A28557B.pdf) |  |  |  |
+| [20230015 A GUIDE TO EFFECTIVE TECHNICAL WRITING FOR ENGINEERS](./technical_writing/20230015_A_GUIDE_TO_EFFECTIVE_TECHNICAL_WRITING_FOR_ENGINEERS.pdf) |  |  |  |
+| [26CCDCA2 CBB1 4BEF B764 9BF2E54D5D6D](./miscellaneous/26CCDCA2_CBB1_4BEF_B764_9BF2E54D5D6D.pdf) |  |  |  |
+| [27AAFA95 442E 44D1 822A D43AB5F90634](./miscellaneous/27AAFA95_442E_44D1_822A_D43AB5F90634.pdf) |  |  |  |
+| [2A73D0A4 9691 4B4A A1B4 C6DC70045656](./miscellaneous/2A73D0A4_9691_4B4A_A1B4_C6DC70045656.pdf) |  |  |  |
+| [2A9AC6A2 C26F 41CE 95C3 86D0D7B618AD](./miscellaneous/2A9AC6A2_C26F_41CE_95C3_86D0D7B618AD.pdf) |  |  |  |
+| [2B92162D 1CFC 4843 825A 89D646E1BAE2](./miscellaneous/2B92162D_1CFC_4843_825A_89D646E1BAE2.pdf) |  |  |  |
+| [30ABA07C 7EBB 4E71 B8DE 932A6CCB7734](./miscellaneous/30ABA07C_7EBB_4E71_B8DE_932A6CCB7734.pdf) |  |  |  |
+| [31103547 76E2 4A9F BD5D FEF12B9ABA75](./miscellaneous/31103547_76E2_4A9F_BD5D_FEF12B9ABA75.pdf) |  |  |  |
+| [33D96E90 5D1B 4160 980C 0FAD146F8BD5](./miscellaneous/33D96E90_5D1B_4160_980C_0FAD146F8BD5.pdf) |  |  |  |
+| [3761E465 66AE 4AEB B145 2DE19D5F6889](./miscellaneous/3761E465_66AE_4AEB_B145_2DE19D5F6889.pdf) |  |  |  |
+| [3CD7FD36 97AB 42C7 833A 08F3A99ED5DC](./miscellaneous/3CD7FD36_97AB_42C7_833A_08F3A99ED5DC.pdf) |  |  |  |
+| [3D3E7372 6453 41C9 9C2C 99A3BE554938](./miscellaneous/3D3E7372_6453_41C9_9C2C_99A3BE554938.pdf) |  |  |  |
+| [3F678146 AD13 4F08 A931 7445994BFC4D](./miscellaneous/3F678146_AD13_4F08_A931_7445994BFC4D.pdf) |  |  |  |
+| [4053BA97 56EE 44B5 91BB BDAA1788A28D](./miscellaneous/4053BA97_56EE_44B5_91BB_BDAA1788A28D.pdf) |  |  |  |
+| [490D4A2B 75CE 4811 A394 54246CB7AD27](./miscellaneous/490D4A2B_75CE_4811_A394_54246CB7AD27.pdf) |  |  |  |
+| [4A28EE4B BB4D 4A77 9E5C 8833D1A8B901](./miscellaneous/4A28EE4B_BB4D_4A77_9E5C_8833D1A8B901.pdf) |  |  |  |
+| [4A8050A8 E574 466C A327 5525D8C42035](./miscellaneous/4A8050A8_E574_466C_A327_5525D8C42035.pdf) |  |  |  |
+| [4D40667A 4039 4453 9B5A 7449CE42FE9D](./miscellaneous/4D40667A_4039_4453_9B5A_7449CE42FE9D.pdf) |  |  |  |
+| [5402AA3D BC7D 4194 A143 6C238F70A36E](./miscellaneous/5402AA3D_BC7D_4194_A143_6C238F70A36E.pdf) |  |  |  |
+| [56FB93AC 841F 494E BEB0 2CBDFED3AF8C](./miscellaneous/56FB93AC_841F_494E_BEB0_2CBDFED3AF8C.pdf) |  |  |  |
+| [59CE7A83 0B40 4FB5 8CAF C33FE89323F3](./miscellaneous/59CE7A83_0B40_4FB5_8CAF_C33FE89323F3.pdf) |  |  |  |
+| [5BCBD52A A6EA 4804 A403 6C4BBBA698C5](./miscellaneous/5BCBD52A_A6EA_4804_A403_6C4BBBA698C5.pdf) |  |  |  |
+| [5CFFD450 6253 4A50 9AA2 AD7B8812CFF3](./miscellaneous/5CFFD450_6253_4A50_9AA2_AD7B8812CFF3.pdf) |  |  |  |
+| [5FB89E33 BFBA 4A89 BB6F CD2DA6AD75AE](./miscellaneous/5FB89E33_BFBA_4A89_BB6F_CD2DA6AD75AE.pdf) |  |  |  |
+| [60D1C465 93BE 4EE9 AB58 282B7BB30D43](./miscellaneous/60D1C465_93BE_4EE9_AB58_282B7BB30D43.pdf) |  |  |  |
+| [654A694E B8F4 4CFB 8349 BA38E7A5EF65](./miscellaneous/654A694E_B8F4_4CFB_8349_BA38E7A5EF65.pdf) |  |  |  |
+| [662CED1F A9E3 4E1C A1DA A24316E9A73C](./miscellaneous/662CED1F_A9E3_4E1C_A1DA_A24316E9A73C.pdf) |  |  |  |
+| [6997571A F53B 451B A0A9 C5C472FDFC3E](./miscellaneous/6997571A_F53B_451B_A0A9_C5C472FDFC3E.pdf) |  |  |  |
+| [6D764E9F 0616 4AD4 8D38 5A521E2D6AF5](./miscellaneous/6D764E9F_0616_4AD4_8D38_5A521E2D6AF5.pdf) |  |  |  |
+| [6F155997 E2E3 4798 AFA6 20E00B7ED86E](./miscellaneous/6F155997_E2E3_4798_AFA6_20E00B7ED86E.pdf) |  |  |  |
+| [70EF69C5 0CE0 442C A4BB 6253321C4B58](./miscellaneous/70EF69C5_0CE0_442C_A4BB_6253321C4B58.pdf) |  |  |  |
+| [75EEEC23 679E 42DB 8FA8 3D9ACD44D6E7](./miscellaneous/75EEEC23_679E_42DB_8FA8_3D9ACD44D6E7.pdf) |  |  |  |
+| [764C770B F431 45CC BC7D 261229096961](./miscellaneous/764C770B_F431_45CC_BC7D_261229096961.pdf) |  |  |  |
+| [77E72791 C4C1 4D5C A8C8 4DB7F2317BBA](./miscellaneous/77E72791_C4C1_4D5C_A8C8_4DB7F2317BBA.pdf) |  |  |  |
+| [79792382 22F9 403C A191 74027AF4BDD9](./miscellaneous/79792382_22F9_403C_A191_74027AF4BDD9.pdf) |  |  |  |
+| [7E716188 5DB1 4E6F 85BC 25C915030D78](./miscellaneous/7E716188_5DB1_4E6F_85BC_25C915030D78.pdf) |  |  |  |
+| [8100645C 38C6 430A A213 160248168B56](./miscellaneous/8100645C_38C6_430A_A213_160248168B56.pdf) |  |  |  |
+| [8C2266CC B011 4154 86D1 0ABA79273071](./miscellaneous/8C2266CC_B011_4154_86D1_0ABA79273071.pdf) |  |  |  |
+| [90BC9060 FD78 43D0 8B3A D14AAA331938](./miscellaneous/90BC9060_FD78_43D0_8B3A_D14AAA331938.pdf) |  |  |  |
+| [912209E8 932B 442E 8EE6 3B89F0B18CA1](./miscellaneous/912209E8_932B_442E_8EE6_3B89F0B18CA1.pdf) |  |  |  |
+| [968FB2D5 4972 4380 9A92 C30A6B0FD161](./miscellaneous/968FB2D5_4972_4380_9A92_C30A6B0FD161.pdf) |  |  |  |
+| [985B2B45 9B69 47EB A664 4CD7AF43B5B6](./miscellaneous/985B2B45_9B69_47EB_A664_4CD7AF43B5B6.pdf) |  |  |  |
+| [9E1530C3 FD98 409C 8293 0A6C2C8FBE2F](./miscellaneous/9E1530C3_FD98_409C_8293_0A6C2C8FBE2F.pdf) |  |  |  |
+| [A FIRST COURSE IN PROBABILITY 10TH EDITION PEARSON 2018](./statistics_and_probability/A_FIRST_COURSE_IN_PROBABILITY_10TH_EDITION_PEARSON_2018.pdf) |  |  |  |
+| [A JORNADA DO EMPREENDEDOR O HEROI DA NOSSA ERA](./business/A_JORNADA_DO_EMPREENDEDOR_O_HEROI_DA_NOSSA_ERA.pdf) |  |  |  |
+| [A LOGICA DO JOGO RECRIANDO CLASSICOS DA HISTORIA DOS VIDEOGAMES](./game_development/A_LOGICA_DO_JOGO_RECRIANDO_CLASSICOS_DA_HISTORIA_DOS_VIDEOGAMES.pdf) |  |  |  |
+| [A WEB MOBILE PROGRAME PARA UM MUNDO DE MUITOS DISPOSITIVOS](./mobile_development/A_WEB_MOBILE_PROGRAME_PARA_UM_MUNDO_DE_MUITOS_DISPOSITIVOS.pdf) |  |  |  |
+| [A397E922 B53E 4BAA AF1A C24B88473014](./miscellaneous/A397E922_B53E_4BAA_AF1A_C24B88473014.pdf) |  |  |  |
+| [A6973B74 D84A 4521 AD9F 635CE7CEDEFC](./miscellaneous/A6973B74_D84A_4521_AD9F_635CE7CEDEFC.pdf) |  |  |  |
+| [A75BFB7D 1E6C 4200 AFB5 35806887BF57](./miscellaneous/A75BFB7D_1E6C_4200_AFB5_35806887BF57.pdf) |  |  |  |
+| [A7D6E6C6 9037 40B4 B698 176FA4D7F6A1](./miscellaneous/A7D6E6C6_9037_40B4_B698_176FA4D7F6A1.pdf) |  |  |  |
+| [AA2E311C 35F1 4935 9D06 BCC6DB97BAEE](./miscellaneous/AA2E311C_35F1_4935_9D06_BCC6DB97BAEE.pdf) |  |  |  |
+| [ABAP O GUIA DE SOBREVIVENCIA DO PROFISSIONAL MODERNO](./abap/ABAP_O_GUIA_DE_SOBREVIVENCIA_DO_PROFISSIONAL_MODERNO.pdf) |  |  |  |
+| [ABOUT FACE EDITION 4 THE ESSENTIALS OF INTERACTION DESIGN](./ui_ux/ABOUT_FACE_EDITION_4_THE_ESSENTIALS_OF_INTERACTION_DESIGN.pdf) |  |  |  |
+| [ACHIEVING DEVOPS](./devops/ACHIEVING_DEVOPS.pdf) |  |  |  |
+| [AE9837AD C5EA 4DDE B827 9CB4AB1CA9A9](./miscellaneous/AE9837AD_C5EA_4DDE_B827_9CB4AB1CA9A9.pdf) |  |  |  |
+| [AGILE DESENVOLVIMENTO DE SOFTWARE COM ENTREGAS FREQUENTES E FOCO NO VALOR DE NEGOCIO](./agile/AGILE_DESENVOLVIMENTO_DE_SOFTWARE_COM_ENTREGAS_FREQUENTES_E_FOCO_NO_VALOR_DE_NEGOCIO.pdf) |  |  |  |
+| [ALL OF STATISTICS A CONCISE COURSE IN STATISTICAL INFERENCE](./statistics_and_probability/ALL_OF_STATISTICS_A_CONCISE_COURSE_IN_STATISTICAL_INFERENCE.pdf) |  |  |  |
+| [AMAZON AWS DESCOMPLICANDO A COMPUTACAO NA NUVEM](./cloud/AMAZON_AWS_DESCOMPLICANDO_A_COMPUTACAO_NA_NUVEM.pdf) |  |  |  |
+| [AN INTRODUCTION TO THE SCIENCE OF STATISTICSFROM THEORY TO IMPLEMENTATION AUTHOR JOSEPH C WATKINS](./statistics_and_probability/AN_INTRODUCTION_TO_THE_SCIENCE_OF_STATISTICSFROM_THEORY_TO_IMPLEMENTATION_AUTHOR_JOSEPH_C_WATKINS.pdf) |  |  |  |
+| [AN INTRODUCTION TO THE SCIENCE OF STATISTICS](./statistics_and_probability/AN_INTRODUCTION_TO_THE_SCIENCE_OF_STATISTICS.pdf) |  |  |  |
+| [AN INTRODUCTION TO THE THEORY OF STATISTICS MINATI SHIL 2011](./statistics_and_probability/AN_INTRODUCTION_TO_THE_THEORY_OF_STATISTICS_MINATI_SHIL_2011.pdf) |  |  |  |
+| [ANSIBLE CONFIGURATION MANAGEMEN 2ND EDITION](./ansible/ANSIBLE_CONFIGURATION_MANAGEMEN_2ND_EDITION.pdf) |  |  |  |
+| [ANSIBLE FOR DEVOPS](./ansible/ANSIBLE_FOR_DEVOPS.pdf) |  |  |  |
+| [ANSIBLE FOR KUBERNETES](./ansible/ANSIBLE_FOR_KUBERNETES.pdf) |  |  |  |
+| [ANSIBLE FROM BEGINNER TO PRO](./ansible/ANSIBLE_FROM_BEGINNER_TO_PRO.pdf) |  |  |  |
+| [ANSIBLE PLAYBOOK ESSENTIALS](./ansible/ANSIBLE_PLAYBOOK_ESSENTIALS.pdf) |  |  |  |
+| [ANSIBLE UP RUNNING 2ND EDITION](./ansible/ANSIBLE_UP_RUNNING_2ND_EDITION.pdf) |  |  |  |
+| [APLICACOES JAVA PARA WEB COM JSF E JPA](./java/APLICACOES_JAVA_PARA_WEB_COM_JSF_E_JPA.pdf) |  |  |  |
+| [APLICACOES MOBILE HIBRIDAS COM CORDOVA E PHONEGAP](./mobile_development/APLICACOES_MOBILE_HIBRIDAS_COM_CORDOVA_E_PHONEGAP.pdf) |  |  |  |
+| [ARDUINO GUIA PARA COLOCAR SUAS IDEIAS EM PRATICA](./arduino/ARDUINO_GUIA_PARA_COLOCAR_SUAS_IDEIAS_EM_PRATICA.pdf) |  |  |  |
+| [ARDUINO PRATICO 10 PROJETOS PARA EXECUTAR APRENDER MODIFICAR E DOMINAR O MUNDO](./arduino/ARDUINO_PRATICO_10_PROJETOS_PARA_EXECUTAR_APRENDER_MODIFICAR_E_DOMINAR_O_MUNDO.pdf) |  |  |  |
+| [ARMAZENANDO DADOS COM REDIS](./database/ARMAZENANDO_DADOS_COM_REDIS.pdf) |  |  |  |
+| [ASP NET MVC 5 CRIE APLICACOES WEB NA PLATAFORMA MICROSOFT](./c_sharp/ASP_NET_MVC_5_CRIE_APLICACOES_WEB_NA_PLATAFORMA_MICROSOFT.pdf) |  |  |  |
+| [ATLASSIAN GIT CHEATSHEET](./git/ATLASSIAN_GIT_CHEATSHEET.pdf) |  |  |  |
+| [AZURE COLOQUE SUAS PLATAFORMAS E SERVICOS NO CLOUD](./cloud/AZURE_COLOQUE_SUAS_PLATAFORMAS_E_SERVICOS_NO_CLOUD.pdf) |  |  |  |
+| [B17828C4 5C81 4257 9D5A 996529C3F22E](./miscellaneous/B17828C4_5C81_4257_9D5A_996529C3F22E.pdf) |  |  |  |
+| [B5AB7B3E 18AD 4B5D 8D66 BFAD5994951A](./miscellaneous/B5AB7B3E_18AD_4B5D_8D66_BFAD5994951A.pdf) |  |  |  |
+| [BA517C16 0354 4798 BF15 E3B93901C639](./miscellaneous/BA517C16_0354_4798_BF15_E3B93901C639.pdf) |  |  |  |
+| [BASICS OF STATISTICS](./statistics_and_probability/BASICS_OF_STATISTICS.pdf) |  |  |  |
+| [BEGINNING C 7 PROGRAMMING WITH VISUAL STUDIO 2017 PDFDRIVE](./c_sharp/BEGINNING_C_7_PROGRAMMING_WITH_VISUAL_STUDIO_2017_PDFDRIVE.pdf) |  |  |  |
+| [BEGINNING C GAME PROGRAMMING](./c_sharp/BEGINNING_C_GAME_PROGRAMMING.pdf) |  |  |  |
+| [BIG DATA TECNICAS E TECNOLOGIAS PARA EXTRACAO DE VALOR DOS DADOS](./data_science/BIG_DATA_TECNICAS_E_TECNOLOGIAS_PARA_EXTRACAO_DE_VALOR_DOS_DADOS.pdf) |  |  |  |
+| [BLAZOR FOR ASP NET WEB FORMS DEVELOPERS](./c_sharp/BLAZOR_FOR_ASP_NET_WEB_FORMS_DEVELOPERS.pdf) |  |  |  |
+| [BLAZOR IN ACTION](./c_sharp/BLAZOR_IN_ACTION.pdf) |  |  |  |
+| [BOOK](./miscellaneous/BOOK.pdf) |  |  |  |
+| [BUILDING REACTIVE MICROSERVICES IN JAVA](./java/BUILDING_REACTIVE_MICROSERVICES_IN_JAVA.pdf) |  |  |  |
+| [BUILDING UI MOCKUPS DEVELOPERS WON T HATE](./ui_ux/BUILDING_UI_MOCKUPS_DEVELOPERS_WON_T_HATE.pdf) |  |  |  |
+| [BUSINESS INTELLIGENCE IMPLEMENTAR DO JEITO CERTO E A CUSTO ZERO](./business/BUSINESS_INTELLIGENCE_IMPLEMENTAR_DO_JEITO_CERTO_E_A_CUSTO_ZERO.pdf) |  |  |  |
+| [BUSINESS STATISTICS PDFDRIVE](./statistics_and_probability/BUSINESS_STATISTICS_PDFDRIVE.pdf) |  |  |  |
+| [C AND NET](./c_sharp/C_AND_NET.pdf) |  |  |  |
+| [C E VISUAL STUDIO DESENVOLVIMENTO DE APLICACOES DESKTOP](./c_sharp/C_E_VISUAL_STUDIO_DESENVOLVIMENTO_DE_APLICACOES_DESKTOP.pdf) |  |  |  |
+| [C6914CC6 449D 42F7 9DFC 31BD7A9898EF](./miscellaneous/C6914CC6_449D_42F7_9DFC_31BD7A9898EF.pdf) |  |  |  |
+| [C9BDF6E8 CA15 4BDC 968E BE08E5857D5E](./miscellaneous/C9BDF6E8_CA15_4BDC_968E_BE08E5857D5E.pdf) |  |  |  |
+| [CAIXA DE FERRAMENTAS DEVOPS UM GUIA PARA CONSTRUCAO ADMINISTRACAO E ARQUITETURA DE SISTEMAS MODERNOS](./devops/CAIXA_DE_FERRAMENTAS_DEVOPS_UM_GUIA_PARA_CONSTRUCAO_ADMINISTRACAO_E_ARQUITETURA_DE_SISTEMAS_MODERNOS.pdf) |  |  |  |
+| [CB5F13FF B4F8 4079 B766 E5CD84EF8013](./miscellaneous/CB5F13FF_B4F8_4079_B766_E5CD84EF8013.pdf) |  |  |  |
+| [CD479212 B064 463C ADA8 0A9B0C205552](./miscellaneous/CD479212_B064_463C_ADA8_0A9B0C205552.pdf) |  |  |  |
+| [CD7461D1 A79A 4B81 A669 258FE373B74F](./miscellaneous/CD7461D1_A79A_4B81_A669_258FE373B74F.pdf) |  |  |  |
+| [CDI INTEGRE AS DEPENDENCIAS E CONTEXTOS DO SEU CODIGO JAVA](./java/CDI_INTEGRE_AS_DEPENDENCIAS_E_CONTEXTOS_DO_SEU_CODIGO_JAVA.pdf) |  |  |  |
+| [CLOUD NATIVE DEVOPS WITH KUBERNETES](./devops/CLOUD_NATIVE_DEVOPS_WITH_KUBERNETES.pdf) |  |  |  |
+| [CNP3](./miscellaneous/CNP3.pdf) |  |  |  |
+| [CODEIGNITER PRODUTIVIDADE NA CRIACAO DE APLICACOES WEB EM PHP](./php/CODEIGNITER_PRODUTIVIDADE_NA_CRIACAO_DE_APLICACOES_WEB_EM_PHP.pdf) |  |  |  |
+| [COLETANEA FRONT END UMA ANTOLOGIA DA COMUNIDADE FRONT END BRASILEIRA](./javascript/COLETANEA_FRONT_END_UMA_ANTOLOGIA_DA_COMUNIDADE_FRONT_END_BRASILEIRA.pdf) |  |  |  |
+| [COLOR THEORY IN WEB UI DESIGN](./ui_ux/COLOR_THEORY_IN_WEB_UI_DESIGN.pdf) |  |  |  |
+| [COMECANDO COM LINUX COMANDOS SERVICOS E ADMINISTRACAO](./operating_systems/COMECANDO_COM_LINUX_COMANDOS_SERVICOS_E_ADMINISTRACAO.pdf) |  |  |  |
+| [COMPLETE GIT CHEAT SHEET](./git/COMPLETE_GIT_CHEAT_SHEET.pdf) |  |  |  |
+| [COMPLETE GUIDE TO USER TESTING](./ui_ux/COMPLETE_GUIDE_TO_USER_TESTING.pdf) |  |  |  |
+| [COMPONENTES REUTILIZAVEIS EM JAVA COM REFLEXAO E ANOTACOES](./java/COMPONENTES_REUTILIZAVEIS_EM_JAVA_COM_REFLEXAO_E_ANOTACOES.pdf) |  |  |  |
+| [COMPUTER NETWORKS A TANENBAUM 5TH EDITION](./networking/COMPUTER_NETWORKS_A_TANENBAUM_5TH_EDITION.pdf) |  |  |  |
+| [CONHECENDO O ADOBE PHOTOSHOP CS6](./design/CONHECENDO_O_ADOBE_PHOTOSHOP_CS6.pdf) |  |  |  |
+| [CONSISTENCY UI DESIGN CREATIVITY WITHOUT CONFUSION](./ui_ux/CONSISTENCY_UI_DESIGN_CREATIVITY_WITHOUT_CONFUSION.pdf) |  |  |  |
+| [CONSTRUINDO APIS REST COM NODE JS](./javascript/CONSTRUINDO_APIS_REST_COM_NODE_JS.pdf) |  |  |  |
+| [CONTAINERIZATION WITH ANSIBLE 2](./ansible/CONTAINERIZATION_WITH_ANSIBLE_2.pdf) |  |  |  |
+| [CONTAINERIZED DOCKER APPLICATION LIFECYCLE WITH MICROSOFT PLATFORM AND TOOLS](./docker/CONTAINERIZED_DOCKER_APPLICATION_LIFECYCLE_WITH_MICROSOFT_PLATFORM_AND_TOOLS.pdf) |  |  |  |
+| [CONTAINERS COM DOCKER DO DESENVOLVIMENTO A PRODUCAO](./docker/CONTAINERS_COM_DOCKER_DO_DESENVOLVIMENTO_A_PRODUCAO.pdf) |  |  |  |
+| [CONTROLANDO VERSOES COM GIT E GITHUB](./git/CONTROLANDO_VERSOES_COM_GIT_E_GITHUB.pdf) |  |  |  |
+| [CORE JAVA FUNDAMENTALS VOLUME 1 12TH EDITION](./java/CORE_JAVA_FUNDAMENTALS_VOLUME_1_12TH_EDITION.pdf) |  |  |  |
+| [CRIANDO APLICACOES PARA O SEU WINDOWS PHONE EDICAO WINDOWS RUNTIME](./mobile_development/CRIANDO_APLICACOES_PARA_O_SEU_WINDOWS_PHONE_EDICAO_WINDOWS_RUNTIME.pdf) |  |  |  |
+| [CRIANDO APLICACOES PARA O SEU WINDOWS PHONE](./mobile_development/CRIANDO_APLICACOES_PARA_O_SEU_WINDOWS_PHONE.pdf) |  |  |  |
+| [CRIE APLICACOES COM ANGULAR O NOVO FRAMEWORK DO GOOGLE](./javascript/CRIE_APLICACOES_COM_ANGULAR_O_NOVO_FRAMEWORK_DO_GOOGLE.pdf) |  |  |  |
+| [CSS EFICIENTE TECNICAS E FERRAMENTAS QUE FAZEM DIFERENCA NOS SEUS ESTILOS](./design/CSS_EFICIENTE_TECNICAS_E_FERRAMENTAS_QUE_FAZEM_DIFERENCA_NOS_SEUS_ESTILOS.pdf) |  |  |  |
+| [CUCUMBER E RSPEC CONSTRUA APLICACOES RUBY E RAILS COM TESTES E ESPECIFICACOES](./testing/CUCUMBER_E_RSPEC_CONSTRUA_APLICACOES_RUBY_E_RAILS_COM_TESTES_E_ESPECIFICACOES.pdf) |  |  |  |
+| [D301A16F E9AF 4BAD B9EF 9A0D4028B0DF](./miscellaneous/D301A16F_E9AF_4BAD_B9EF_9A0D4028B0DF.pdf) |  |  |  |
+| [DATA STRUCTURES AND ALGORITHMS IN JAVA 6TH EDITION](./java/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA_6TH_EDITION.pdf) |  |  |  |
+| [DATA STRUCTURES AND ALGORITHMS IN JAVA FOURTH EDITION](./java/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA_FOURTH_EDITION.pdf) |  |  |  |
+| [DD70E01B 429A 4ECD B798 405C314DC0C4](./miscellaneous/DD70E01B_429A_4ECD_B798_405C314DC0C4.pdf) |  |  |  |
+| [DEPLOYING RAILS WITH DOCKER KUBERNETES AND ECS](./ruby/DEPLOYING_RAILS_WITH_DOCKER_KUBERNETES_AND_ECS.pdf) |  |  |  |
+| [DESBRAVANDO JAVA E ORIENTACAO A OBJETOS UM GUIA PARA O INICIANTE DA LINGUAGEM](./java/DESBRAVANDO_JAVA_E_ORIENTACAO_A_OBJETOS_UM_GUIA_PARA_O_INICIANTE_DA_LINGUAGEM.pdf) |  |  |  |
+| [DESCONSTRUINDO A WEB AS TECNOLOGIAS POR TRAS DE UMA REQUISICAO](./networking/DESCONSTRUINDO_A_WEB_AS_TECNOLOGIAS_POR_TRAS_DE_UMA_REQUISICAO.pdf) |  |  |  |
+| [DESENVOLVA JOGOS COM HTML5 CANVAS E JAVASCRIPT](./game_development/DESENVOLVA_JOGOS_COM_HTML5_CANVAS_E_JAVASCRIPT.pdf) |  |  |  |
+| [DESENVOLVIMENTO DE JOGOS PARA ANDROID EXPLORE SUA IMAGINACAO COM O FRAMEWORK COCOS2D](./game_development/DESENVOLVIMENTO_DE_JOGOS_PARA_ANDROID_EXPLORE_SUA_IMAGINACAO_COM_O_FRAMEWORK_COCOS2D.pdf) |  |  |  |
+| [DESENVOLVIMENTO DE JOGOS PARA IOS EXPLORE SUA IMAGINACAO COM O FRAMEWORK COCOS2D](./game_development/DESENVOLVIMENTO_DE_JOGOS_PARA_IOS_EXPLORE_SUA_IMAGINACAO_COM_O_FRAMEWORK_COCOS2D.pdf) |  |  |  |
+| [DESENVOLVIMENTO EFETIVO NA PLATAFORMA MICROSOFT COMO DESENVOLVER E SUPORTAR SOFTWARE QUE FUNCIONA](./c_sharp/DESENVOLVIMENTO_EFETIVO_NA_PLATAFORMA_MICROSOFT_COMO_DESENVOLVER_E_SUPORTAR_SOFTWARE_QUE_FUNCIONA.pdf) |  |  |  |
+| [DESENVOLVIMENTO WEB COM ASP NET MVC CASA DO CODIGO](./c_sharp/DESENVOLVIMENTO_WEB_COM_ASP_NET_MVC_CASA_DO_CODIGO.pdf) |  |  |  |
+| [DESENVOLVIMENTO WEB COM ASP NET MVC](./c_sharp/DESENVOLVIMENTO_WEB_COM_ASP_NET_MVC.pdf) |  |  |  |
+| [DESENVOLVIMENTO WEB COM PHP E MYSQL CASA DO CODIGO EDICAO ATUALIZADA](./php/DESENVOLVIMENTO_WEB_COM_PHP_E_MYSQL_CASA_DO_CODIGO_EDICAO_ATUALIZADA.pdf) |  |  |  |
+| [DESENVOLVIMENTO WEB COM PHP E MYSQL CASA DO CODIGO](./php/DESENVOLVIMENTO_WEB_COM_PHP_E_MYSQL_CASA_DO_CODIGO.pdf) |  |  |  |
+| [DESENVOLVIMENTO WEB COM PHP E MYSQL](./php/DESENVOLVIMENTO_WEB_COM_PHP_E_MYSQL.pdf) |  |  |  |
+| [DESIGN PATTERNS COM JAVA PROJETO ORIENTADO A OBJETOS GUIADO POR PADROES](./java/DESIGN_PATTERNS_COM_JAVA_PROJETO_ORIENTADO_A_OBJETOS_GUIADO_POR_PADROES.pdf) |  |  |  |
+| [DEVOPS FOR AZURE APPLICATIONS](./devops/DEVOPS_FOR_AZURE_APPLICATIONS.pdf) |  |  |  |
+| [DEVOPS NA PRATICA ENTREGA DE SOFTWARE CONFIAVEL E AUTOMATIZADA](./devops/DEVOPS_NA_PRATICA_ENTREGA_DE_SOFTWARE_CONFIAVEL_E_AUTOMATIZADA.pdf) |  |  |  |
+| [DEVOPS PUPPET DOCKER AND KUBERNETES](./devops/DEVOPS_PUPPET_DOCKER_AND_KUBERNETES.pdf) |  |  |  |
+| [DEVOPS WITH KUBERNETES](./devops/DEVOPS_WITH_KUBERNETES.pdf) |  |  |  |
+| [DIRETO AO PONTO CRIANDO PRODUTOS DE FORMA ENXUTA](./agile/DIRETO_AO_PONTO_CRIANDO_PRODUTOS_DE_FORMA_ENXUTA.pdf) |  |  |  |
+| [DOCKER CONTAINERS BUILD AND DEPLOY WITH KUBERNETES FLANNEL COCKPIT AND ATOMIC](./docker/DOCKER_CONTAINERS_BUILD_AND_DEPLOY_WITH_KUBERNETES_FLANNEL_COCKPIT_AND_ATOMIC.pdf) |  |  |  |
+| [DOCKER COOKBOOK SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS](./docker/DOCKER_COOKBOOK_SOLUTIONS_AND_EXAMPLES_FOR_BUILDING_DISTRIBUTED_APPLICATIONS.pdf) |  |  |  |
+| [DOCKER FOR DATA SCIENCE](./docker/DOCKER_FOR_DATA_SCIENCE.pdf) |  |  |  |
+| [DOCKER FOR DEVELOPERS](./docker/DOCKER_FOR_DEVELOPERS.pdf) |  |  |  |
+| [DOCKER FOR JAVA DEVELOPERS](./docker/DOCKER_FOR_JAVA_DEVELOPERS.pdf) |  |  |  |
+| [DOCKER FOR SYSADMINS](./docker/DOCKER_FOR_SYSADMINS.pdf) |  |  |  |
+| [DOCKER IN ACTION](./docker/DOCKER_IN_ACTION.pdf) |  |  |  |
+| [DOCKER IN PRACTICE](./docker/DOCKER_IN_PRACTICE.pdf) |  |  |  |
+| [DOCKER IN PRODUCTION LESSONS FROM THE TRENCHES](./docker/DOCKER_IN_PRODUCTION_LESSONS_FROM_THE_TRENCHES.pdf) |  |  |  |
+| [DOCKER MANAGEMENT DESIGN PATTERNS SWARM MODE ON AMAZON WEB SERVICES](./docker/DOCKER_MANAGEMENT_DESIGN_PATTERNS_SWARM_MODE_ON_AMAZON_WEB_SERVICES.pdf) |  |  |  |
+| [DOCKER SLIDES](./docker/DOCKER_SLIDES.pdf) |  |  |  |
+| [DOCKER TUTORIAL ANTHONY BAIRE](./docker/DOCKER_TUTORIAL_ANTHONY_BAIRE.pdf) |  |  |  |
+| [DOCKER TUTORIAL TUTORIALSPOINT COM](./docker/DOCKER_TUTORIAL_TUTORIALSPOINT_COM.pdf) |  |  |  |
+| [DOCKER UP RUNNING](./docker/DOCKER_UP_RUNNING.pdf) |  |  |  |
+| [DOMINANDO JAVASCRIPT COM JQUERY](./javascript/DOMINANDO_JAVASCRIPT_COM_JQUERY.pdf) |  |  |  |
+| [E2D044C0 543A 4EA8 8158 E12C83663BD4](./miscellaneous/E2D044C0_543A_4EA8_8158_E12C83663BD4.pdf) |  |  |  |
+| [E6387C95 DB6C 4437 B253 F4E56EFA307F](./miscellaneous/E6387C95_DB6C_4437_B253_F4E56EFA307F.pdf) |  |  |  |
+| [E64A0876 310B 4DBE 8BE2 49364B403B13](./miscellaneous/E64A0876_310B_4DBE_8BE2_49364B403B13.pdf) |  |  |  |
+| [E7498952 FB49 4C78 97AF 1C8774A454B2](./miscellaneous/E7498952_FB49_4C78_97AF_1C8774A454B2.pdf) |  |  |  |
+| [EABE567A 6A4F 45EB B110 BE0F26AD944F](./miscellaneous/EABE567A_6A4F_45EB_B110_BE0F26AD944F.pdf) |  |  |  |
+| [EBBF1B6E D8BF 4A73 A452 08E5F676011A](./miscellaneous/EBBF1B6E_D8BF_4A73_A452_08E5F676011A.pdf) |  |  |  |
+| [EBOOK CARREIRA INTELIGENCIA ARTIFICIAL](./artificial_intelligence/EBOOK_CARREIRA_INTELIGENCIA_ARTIFICIAL.pdf) |  |  |  |
+| [ECONOMIA DO ACESSO E OS MODELOS DE NEGOCIOS BASEADOS EM COMPARTILHAMENTO RECORRENCIA E ASSINATURAS](./business/ECONOMIA_DO_ACESSO_E_OS_MODELOS_DE_NEGOCIOS_BASEADOS_EM_COMPARTILHAMENTO_RECORRENCIA_E_ASSINATURAS.pdf) |  |  |  |
+| [EDICAO E ORGANIZACAO DE FOTOS COM ADOBE LIGHTROOM](./design/EDICAO_E_ORGANIZACAO_DE_FOTOS_COM_ADOBE_LIGHTROOM.pdf) |  |  |  |
+| [EEC08743 A47B 4AC2 AE0B 07779B1737C1](./miscellaneous/EEC08743_A47B_4AC2_AE0B_07779B1737C1.pdf) |  |  |  |
+| [EFFECTIVE DEVOPS](./devops/EFFECTIVE_DEVOPS.pdf) |  |  |  |
+| [EFFECTIVE JAVA 2ND EDITION](./java/EFFECTIVE_JAVA_2ND_EDITION.pdf) |  |  |  |
+| [EFFECTIVE JAVA 3RD EDITION](./java/EFFECTIVE_JAVA_3RD_EDITION.pdf) |  |  |  |
+| [ELEMENTARY STATISTICS A STEP BY STEP APPROACH 9TH ED MCGRAW HILL EDUCATION 2014](./statistics_and_probability/ELEMENTARY_STATISTICS_A_STEP_BY_STEP_APPROACH_9TH_ED_MCGRAW_HILL_EDUCATION_2014.pdf) |  |  |  |
+| [ENTREGA CONTINUA EM ANDROID COMO AUTOMATIZAR A DISTRIBUICAO DE APPS](./mobile_development/ENTREGA_CONTINUA_EM_ANDROID_COMO_AUTOMATIZAR_A_DISTRIBUICAO_DE_APPS.pdf) |  |  |  |
+| [ERICH GAMMA RICHARD HELM RALPH JOHNSON JOHN M VLISSIDES DESIGN PATTERNS ELEMENTS OF REUSABLE OBJECT ORIENTED SOFTWARE ADDISON WESLEY PROFESSIONAL 1994](./software_engineering/ERICH_GAMMA_RICHARD_HELM_RALPH_JOHNSON_JOHN_M_VLISSIDES_DESIGN_PATTERNS_ELEMENTS_OF_REUSABLE_OBJECT_ORIENTED_SOFTWARE_ADDISON_WESLEY_PROFESSIONAL_1994.pdf) |  |  |  |
+| [ESSENTIAL DOCKER FOR ASP NET CORE MVC](./docker/ESSENTIAL_DOCKER_FOR_ASP_NET_CORE_MVC.pdf) |  |  |  |
+| [EXPLORANDO APIS E BIBLIOTECAS JAVA JDBC IO THREADS JAVAFX E MAIS](./java/EXPLORANDO_APIS_E_BIBLIOTECAS_JAVA_JDBC_IO_THREADS_JAVAFX_E_MAIS.pdf) |  |  |  |
+| [EXPRESS IN ACTION](./javascript/EXPRESS_IN_ACTION.pdf) |  |  |  |
+| [F36CE561 419C 4FE6 8B74 72C05D4D2099](./miscellaneous/F36CE561_419C_4FE6_8B74_72C05D4D2099.pdf) |  |  |  |
+| [F73BC18C 80C2 4FCA 90C9 915446D8FB55](./miscellaneous/F73BC18C_80C2_4FCA_90C9_915446D8FB55.pdf) |  |  |  |
+| [FALANDO DE GRAILS ALTISSIMA PRODUTIVIDADE NO DESENVOLVIMENTO WEB](./ruby/FALANDO_DE_GRAILS_ALTISSIMA_PRODUTIVIDADE_NO_DESENVOLVIMENTO_WEB.pdf) |  |  |  |
+| [FC498257 E2EE 4920 B074 E4A89BFA5A9E](./miscellaneous/FC498257_E2EE_4920_B074_E4A89BFA5A9E.pdf) |  |  |  |
+| [FCBE8F3C 9C64 4364 AB46 49ABB37F3C3A](./miscellaneous/FCBE8F3C_9C64_4364_AB46_49ABB37F3C3A.pdf) |  |  |  |
+| [FE2A2AEB 4FBF 4D6B 812B 8920179FEC5C](./miscellaneous/FE2A2AEB_4FBF_4D6B_812B_8920179FEC5C.pdf) |  |  |  |
+| [FRAGMENTOS DE UM PROGRAMADOR ARTIGOS E INSIGHTS DA CARREIRA DE UM PROFISSIONAL](./software_engineering/FRAGMENTOS_DE_UM_PROGRAMADOR_ARTIGOS_E_INSIGHTS_DA_CARREIRA_DE_UM_PROFISSIONAL.pdf) |  |  |  |
+| [FUNDAMENTALS OF ENGINEERING TECHNICAL COMMUNICATIONS 1569003034](./technical_writing/FUNDAMENTALS_OF_ENGINEERING_TECHNICAL_COMMUNICATIONS_1569003034.pdf) |  |  |  |
+| [GENERIC PIPELINES USING DOCKER](./docker/GENERIC_PIPELINES_USING_DOCKER.pdf) |  |  |  |
+| [GESTAO DE PRODUTOS COMO AUMENTAR AS CHANCES DE SUCESSO DO SEU SOFTWARE](./project_management/GESTAO_DE_PRODUTOS_COMO_AUMENTAR_AS_CHANCES_DE_SUCESSO_DO_SEU_SOFTWARE.pdf) |  |  |  |
+| [GIT AND GITHUB DATASHEET BY DURGESH](./git/GIT_AND_GITHUB_DATASHEET_BY_DURGESH.pdf) |  |  |  |
+| [GIT CHEAT SHEET EDUCATION](./git/GIT_CHEAT_SHEET_EDUCATION.pdf) |  |  |  |
+| [GIT CHEAT SHEET](./git/GIT_CHEAT_SHEET.pdf) |  |  |  |
+| [GIT COMPLETE STUDY MATERIAL](./git/GIT_COMPLETE_STUDY_MATERIAL.pdf) |  |  |  |
+| [GIT NOTES](./git/GIT_NOTES.pdf) |  |  |  |
+| [GITNOTESFORPROFESSIONALS](./git/GITNOTESFORPROFESSIONALS.pdf) |  |  |  |
+| [GIT](./git/GIT.pdf) |  |  |  |
+| [GOOGLE ANDROID CRIE APLICACOES PARA CELULARES E TABLETS](./mobile_development/GOOGLE_ANDROID_CRIE_APLICACOES_PARA_CELULARES_E_TABLETS.pdf) |  |  |  |
+| [GOOGLE APP ENGINE CONSTRUINDO SERVICOS NA NUVEM](./cloud/GOOGLE_APP_ENGINE_CONSTRUINDO_SERVICOS_NA_NUVEM.pdf) |  |  |  |
+| [GUIA DA STARTUP COMO STARTUPS E EMPRESAS ESTABELECIDAS PODEM CRIAR PRODUTOS WEB RENTAVEIS](./business/GUIA_DA_STARTUP_COMO_STARTUPS_E_EMPRESAS_ESTABELECIDAS_PODEM_CRIAR_PRODUTOS_WEB_RENTAVEIS.pdf) |  |  |  |
+| [GUIA DO MESTRE PROGRAMADOR PENSANDO COMO PIRATA EVOLUINDO COMO JEDI](./software_engineering/GUIA_DO_MESTRE_PROGRAMADOR_PENSANDO_COMO_PIRATA_EVOLUINDO_COMO_JEDI.pdf) |  |  |  |
+| [GUIA FRONT END O CAMINHO DAS PEDRAS PARA SER UM DEV FRONT END](./javascript/GUIA_FRONT_END_O_CAMINHO_DAS_PEDRAS_PARA_SER_UM_DEV_FRONT_END.pdf) |  |  |  |
+| [HANDBOOK OF STATISTICAL DISTRIBUTIONS WITH APPL](./statistics_and_probability/HANDBOOK_OF_STATISTICAL_DISTRIBUTIONS_WITH_APPL.pdf) |  |  |  |
+| [HANS ON SECURITY IN DEVOPS](./devops/HANS_ON_SECURITY_IN_DEVOPS.pdf) |  |  |  |
+| [HEAD FIRST CSHARP 4TH EDITION](./c_sharp/HEAD_FIRST_CSHARP_4TH_EDITION.pdf) |  |  |  |
+| [HEAD FIRST NETWORKING](./networking/HEAD_FIRST_NETWORKING.pdf) |  |  |  |
+| [HEAD FIRST STATISTICS](./statistics_and_probability/HEAD_FIRST_STATISTICS.pdf) |  |  |  |
+| [HOW TO LAUNCH YOUR UX CAREER AND GET PAID](./ui_ux/HOW_TO_LAUNCH_YOUR_UX_CAREER_AND_GET_PAID.pdf) |  |  |  |
+| [HOW TO LIE WITH STATISTICS](./statistics_and_probability/HOW_TO_LIE_WITH_STATISTICS.pdf) |  |  |  |
+| [HTML5 E CSS3 DOMINE A WEB DO FUTURO](./design/HTML5_E_CSS3_DOMINE_A_WEB_DO_FUTURO.pdf) |  |  |  |
+| [IBMREDBOOK](./miscellaneous/IBMREDBOOK.pdf) |  |  |  |
+| [INSIDE JAVA VIRTUAL MACHINE](./java/INSIDE_JAVA_VIRTUAL_MACHINE.pdf) |  |  |  |
+| [INTERACTION DESIGN BEST PRACTICES MASTERING WORDS VISUALS SPACE](./ui_ux/INTERACTION_DESIGN_BEST_PRACTICES_MASTERING_WORDS_VISUALS_SPACE.pdf) |  |  |  |
+| [INTERACTION DESIGN TRENDS 2015 2016](./ui_ux/INTERACTION_DESIGN_TRENDS_2015_2016.pdf) |  |  |  |
+| [INTRODUCAO A ARQUITETURA E DESIGN DE SOFTWARE](./software_engineering/INTRODUCAO_A_ARQUITETURA_E_DESIGN_DE_SOFTWARE.pdf) |  |  |  |
+| [INTRODUCAO A COMPUTACAO DA LOGICA AOS JOGOS COM RUBY](./ruby/INTRODUCAO_A_COMPUTACAO_DA_LOGICA_AOS_JOGOS_COM_RUBY.pdf) |  |  |  |
+| [INTRODUCAO A PROGRAMACAO EM C OS PRIMEIROS PASSOS DE UM DESENVOLVEDOR](./miscellaneous/INTRODUCAO_A_PROGRAMACAO_EM_C_OS_PRIMEIROS_PASSOS_DE_UM_DESENVOLVEDOR.pdf) |  |  |  |
+| [INTRODUCAO E BOAS PRATICAS EM UX DESIGN](./ui_ux/INTRODUCAO_E_BOAS_PRATICAS_EM_UX_DESIGN.pdf) |  |  |  |
+| [INTRODUCTION TO DESCRIPTIVE AND PARAMETRIC STATISTIC WITH R AUTOR ANTOINE TORDEUX](./statistics_and_probability/INTRODUCTION_TO_DESCRIPTIVE_AND_PARAMETRIC_STATISTIC_WITH_R_AUTOR_ANTOINE_TORDEUX.pdf) |  |  |  |
+| [INTRODUCTION TO DESCRIPTIVE STATISTICS AUTOR JOSHUA M TEBBS](./statistics_and_probability/INTRODUCTION_TO_DESCRIPTIVE_STATISTICS_AUTOR_JOSHUA_M_TEBBS.pdf) |  |  |  |
+| [INTRODUCTION TO LINEAR REGRESSION ANALYSISBY DOUGLASC MONTGOMERY ELIZABETH](./statistics_and_probability/INTRODUCTION_TO_LINEAR_REGRESSION_ANALYSISBY_DOUGLASC_MONTGOMERY_ELIZABETH.pdf) |  |  |  |
+| [INTRODUCTION TO STATISTICS DATA ANALYSIS](./statistics_and_probability/INTRODUCTION_TO_STATISTICS_DATA_ANALYSIS.pdf) |  |  |  |
+| [INTRODUCTION TO THE PRACTICE OF STATISTICS](./statistics_and_probability/INTRODUCTION_TO_THE_PRACTICE_OF_STATISTICS.pdf) |  |  |  |
+| [INTRODUCTORYBUSINESSSTATISTICS OP](./statistics_and_probability/INTRODUCTORYBUSINESSSTATISTICS_OP.pdf) |  |  |  |
+| [IONIC FRAMEWORK CONSTRUA APLICATIVOS PARA TODAS AS PLATAFORMAS MOBILE](./mobile_development/IONIC_FRAMEWORK_CONSTRUA_APLICATIVOS_PARA_TODAS_AS_PLATAFORMAS_MOBILE.pdf) |  |  |  |
+| [IOS PROGRAME PARA IPHONE E IPAD](./mobile_development/IOS_PROGRAME_PARA_IPHONE_E_IPAD.pdf) |  |  |  |
+| [IREPORT CRIE RELATORIOS PRATICOS E ELEGANTES](./miscellaneous/IREPORT_CRIE_RELATORIOS_PRATICOS_E_ELEGANTES.pdf) |  |  |  |
+| [ITN6 INSTRUCTOR MATERIALS CHAPTER10GIT](./git/ITN6_INSTRUCTOR_MATERIALS_CHAPTER10GIT.pdf) |  |  |  |
+| [ITN6 INSTRUCTOR MATERIALS CHAPTER6GIT](./git/ITN6_INSTRUCTOR_MATERIALS_CHAPTER6GIT.pdf) |  |  |  |
+| [ITN6 INSTRUCTOR MATERIALS CHAPTER9GIT](./git/ITN6_INSTRUCTOR_MATERIALS_CHAPTER9GIT.pdf) |  |  |  |
+| [JAVA 8 IN ACTION](./java/JAVA_8_IN_ACTION.pdf) |  |  |  |
+| [JAVA 8 PRATICO LAMBDAS STREAMS E OS NOVOS RECURSOS DA LINGUAGEM](./java/JAVA_8_PRATICO_LAMBDAS_STREAMS_E_OS_NOVOS_RECURSOS_DA_LINGUAGEM.pdf) |  |  |  |
+| [JAVA A BEGINNER S GUIDE 6TH EDITION PDF](./java/JAVA_A_BEGINNER_S_GUIDE_6TH_EDITION_PDF.pdf) |  |  |  |
+| [JAVA ADVANCED NETWORK PROGRAMMING PRINCIPLES AND TECHNIQUES](./java/JAVA_ADVANCED_NETWORK_PROGRAMMING_PRINCIPLES_AND_TECHNIQUES.pdf) |  |  |  |
+| [JAVA AN INTRODUCTION TO NETWORK PROGRAMMING WITH JAVA](./java/JAVA_AN_INTRODUCTION_TO_NETWORK_PROGRAMMING_WITH_JAVA.pdf) |  |  |  |
+| [JAVA E ORIENTACOES A OBJETOS](./java/JAVA_E_ORIENTACOES_A_OBJETOS.pdf) |  |  |  |
+| [JAVA EE APROVEITE TODA A PLATAFORMA PARA CONSTRUIR APLICACOES](./java/JAVA_EE_APROVEITE_TODA_A_PLATAFORMA_PARA_CONSTRUIR_APLICACOES.pdf) |  |  |  |
+| [JAVA FX INTERFACES COM QUALIDADE PARA APLICACOES DESKTOP](./java/JAVA_FX_INTERFACES_COM_QUALIDADE_PARA_APLICACOES_DESKTOP.pdf) |  |  |  |
+| [JAVA GENERICS AND COLLECTIONS](./java/JAVA_GENERICS_AND_COLLECTIONS.pdf) |  |  |  |
+| [JAVA JAVA NETWORK PROGRAMMING 4TH EDITION](./java/JAVA_JAVA_NETWORK_PROGRAMMING_4TH_EDITION.pdf) |  |  |  |
+| [JAVA LANGUAGE SPEC 7](./java/JAVA_LANGUAGE_SPEC_7.pdf) |  |  |  |
+| [JAVA SE 7 PROGRAMMER I O GUIA PARA SUA CERTIFICACAO ORACLE CERTIFIED ASSOCIATE](./java/JAVA_SE_7_PROGRAMMER_I_O_GUIA_PARA_SUA_CERTIFICACAO_ORACLE_CERTIFIED_ASSOCIATE.pdf) |  |  |  |
+| [JAVA THE COMPLETE REFERENCE 7TH EDITION HERBERT SCHILDT](./java/JAVA_THE_COMPLETE_REFERENCE_7TH_EDITION_HERBERT_SCHILDT.pdf) |  |  |  |
+| [JAVA THE LEGEND](./java/JAVA_THE_LEGEND.pdf) |  |  |  |
+| [JAVAFX INTERFACES COM QUALIDADE PARA APLICACOES DESKTOP](./java/JAVAFX_INTERFACES_COM_QUALIDADE_PARA_APLICACOES_DESKTOP.pdf) |  |  |  |
+| [JAVASCRIPT HIGH PERFORMANCE BROWSER NETWORKING](./networking/JAVASCRIPT_HIGH_PERFORMANCE_BROWSER_NETWORKING.pdf) |  |  |  |
+| [JEFF TIAN SOFTWARE QUALITY ENGINEERING TESTING QUALITY ASSURANCE AND QUANTIFIABLE IMPROVEMENT WILEY IEEE COMPUTER SOCIETY PRESS 2005](./testing/JEFF_TIAN_SOFTWARE_QUALITY_ENGINEERING_TESTING_QUALITY_ASSURANCE_AND_QUANTIFIABLE_IMPROVEMENT_WILEY_IEEE_COMPUTER_SOCIETY_PRESS_2005.pdf) |  |  |  |
+| [JENKINS AUTOMATIZE TUDO SEM COMPLICACOES](./devops/JENKINS_AUTOMATIZE_TUDO_SEM_COMPLICACOES.pdf) |  |  |  |
+| [JOGOS ANDROID CRIE UM GAME DO ZERO USANDO CLASSES NATIVAS](./game_development/JOGOS_ANDROID_CRIE_UM_GAME_DO_ZERO_USANDO_CLASSES_NATIVAS.pdf) |  |  |  |
+| [JOGOS EM HTML5 EXPLORE O MOBILE E FISICA](./game_development/JOGOS_EM_HTML5_EXPLORE_O_MOBILE_E_FISICA.pdf) |  |  |  |
+| [JPA EFICAZ AS MELHORES PRATICAS DE PERSISTENCIA DE DADOS EM JAVA](./java/JPA_EFICAZ_AS_MELHORES_PRATICAS_DE_PERSISTENCIA_DE_DADOS_EM_JAVA.pdf) |  |  |  |
+| [JQUERY MOBILE DESENVOLVA INTERFACES PARA MULTIPLOS DISPOSITIVOS](./javascript/JQUERY_MOBILE_DESENVOLVA_INTERFACES_PARA_MULTIPLOS_DISPOSITIVOS.pdf) |  |  |  |
+| [JSF EFICAZ AS MELHORES PRATICAS PARA O DESENVOLVEDOR WEB JAVA](./java/JSF_EFICAZ_AS_MELHORES_PRATICAS_PARA_O_DESENVOLVEDOR_WEB_JAVA.pdf) |  |  |  |
+| [KUBERNETES FOR JAVA DEVELOPERS](./kubernetes/KUBERNETES_FOR_JAVA_DEVELOPERS.pdf) |  |  |  |
+| [KUBERNETES MICROSERVICES WITH DOCKER](./kubernetes/KUBERNETES_MICROSERVICES_WITH_DOCKER.pdf) |  |  |  |
+| [KUBERNETES PATTERNS](./kubernetes/KUBERNETES_PATTERNS.pdf) |  |  |  |
+| [L 0000830536 PDF](./miscellaneous/L_0000830536_PDF.pdf) |  |  |  |
+| [LAB 3 SIMPLE ROUTER](./networking/LAB_3_SIMPLE_ROUTER.pdf) |  |  |  |
+| [LAB ETHERNET](./networking/LAB_ETHERNET.pdf) |  |  |  |
+| [LABS 1 2 RELIABLE TRANSPORT](./networking/LABS_1_2_RELIABLE_TRANSPORT.pdf) |  |  |  |
+| [LEAN ENTERPRISE COMO EMPRESAS DE ALTA PERFORMANCE INOVAM EM ESCALA](./agile/LEAN_ENTERPRISE_COMO_EMPRESAS_DE_ALTA_PERFORMANCE_INOVAM_EM_ESCALA.pdf) |  |  |  |
+| [LEARNING 3 0 COMO OS PROFISSIONAIS CRIATIVOS APRENDEM](./agile/LEARNING_3_0_COMO_OS_PROFISSIONAIS_CRIATIVOS_APRENDEM.pdf) |  |  |  |
+| [LEARNING ANSIBLE 2 2ND EDITION](./ansible/LEARNING_ANSIBLE_2_2ND_EDITION.pdf) |  |  |  |
+| [LEARNING ANSIBLE](./ansible/LEARNING_ANSIBLE.pdf) |  |  |  |
+| [LEARNING DEVOPS](./devops/LEARNING_DEVOPS.pdf) |  |  |  |
+| [LEARNING WINDOWS SERVER CONTAINERS](./operating_systems/LEARNING_WINDOWS_SERVER_CONTAINERS.pdf) |  |  |  |
+| [LESSONS LEARNED FROM WATCHING 200000 USER TESTING VIDEOS](./ui_ux/LESSONS_LEARNED_FROM_WATCHING_200000_USER_TESTING_VIDEOS.pdf) |  |  |  |
+| [LINUX NETWORKING COOKBOOK](./operating_systems/LINUX_NETWORKING_COOKBOOK.pdf) |  |  |  |
+| [LIVRO VUE SAMPLE](./javascript/LIVRO_VUE_SAMPLE.pdf) |  |  |  |
+| [LOGICA DE PROGRAMACAO CRIE SEUS PRIMEIROS PROGRAMAS USANDO JAVASCRIPT E HTML](./javascript/LOGICA_DE_PROGRAMACAO_CRIE_SEUS_PRIMEIROS_PROGRAMAS_USANDO_JAVASCRIPT_E_HTML.pdf) |  |  |  |
+| [MASTERING ANSIBLE](./ansible/MASTERING_ANSIBLE.pdf) |  |  |  |
+| [MASTERING WEB APPLICATION DEVELOPMENT WITH EXPRESS](./javascript/MASTERING_WEB_APPLICATION_DEVELOPMENT_WITH_EXPRESS.pdf) |  |  |  |
+| [MATHEMATICAL STATISTICS WITH APPLICATIONS](./statistics_and_probability/MATHEMATICAL_STATISTICS_WITH_APPLICATIONS.pdf) |  |  |  |
+| [MATHEMATICAL STATISTICS](./statistics_and_probability/MATHEMATICAL_STATISTICS.pdf) |  |  |  |
+| [MEAN FULL STACK JAVASCRIPT PARA APLICACOES WEB COM MONGODB EXPRESS ANGULAR E NODE](./javascript/MEAN_FULL_STACK_JAVASCRIPT_PARA_APLICACOES_WEB_COM_MONGODB_EXPRESS_ANGULAR_E_NODE.pdf) |  |  |  |
+| [METEOR CRIANDO APLICACOES WEB REALTIME COM JAVASCRIPT](./javascript/METEOR_CRIANDO_APLICACOES_WEB_REALTIME_COM_JAVASCRIPT.pdf) |  |  |  |
+| [METRICAS AGEIS OBTENHA MELHORES RESULTADOS EM SUA EQUIPE](./agile/METRICAS_AGEIS_OBTENHA_MELHORES_RESULTADOS_EM_SUA_EQUIPE.pdf) |  |  |  |
+| [MICROSERVICES ANTIPATTERNS AND PITFALLS](./software_engineering/MICROSERVICES_ANTIPATTERNS_AND_PITFALLS.pdf) |  |  |  |
+| [MICROSERVICES FOR JAVA DEVELOPERS](./java/MICROSERVICES_FOR_JAVA_DEVELOPERS.pdf) |  |  |  |
+| [MICROSOFT BLAZOR 3RD EDITION PETER HIMSCHOOT APRESS 978148427844 EBOOKSWORLD IR](./c_sharp/MICROSOFT_BLAZOR_3RD_EDITION_PETER_HIMSCHOOT_APRESS_978148427844_EBOOKSWORLD_IR.pdf) |  |  |  |
+| [MICROSOFT KINECT CRIE APLICACOES INTERATIVAS COM O MICROSOFT KINECT](./c_sharp/MICROSOFT_KINECT_CRIE_APLICACOES_INTERATIVAS_COM_O_MICROSOFT_KINECT.pdf) |  |  |  |
+| [MICROSOFT VISUAL C STEP BY STEP](./c_sharp/MICROSOFT_VISUAL_C_STEP_BY_STEP.pdf) |  |  |  |
+| [MIGRATING JAVA TO THE CLOUD](./java/MIGRATING_JAVA_TO_THE_CLOUD.pdf) |  |  |  |
+| [MOBILE CARD INTERFACES](./ui_ux/MOBILE_CARD_INTERFACES.pdf) |  |  |  |
+| [MOBILE DEVELOPERS GUIDE TO THE GALAXY](./mobile_development/MOBILE_DEVELOPERS_GUIDE_TO_THE_GALAXY.pdf) |  |  |  |
+| [MOBILE UI DESIGN PATTERNS A DEEPER LOOK AT THE HOTTEST APPS TODAY](./ui_ux/MOBILE_UI_DESIGN_PATTERNS_A_DEEPER_LOOK_AT_THE_HOTTEST_APPS_TODAY.pdf) |  |  |  |
+| [MOBILE UI TRENDS PRESENT FUTURE MEANINGFUL MOBILE TYPOGRAPHY](./ui_ux/MOBILE_UI_TRENDS_PRESENT_FUTURE_MEANINGFUL_MOBILE_TYPOGRAPHY.pdf) |  |  |  |
+| [MODERN JAVA EE DESIGN PATTERNS](./java/MODERN_JAVA_EE_DESIGN_PATTERNS.pdf) |  |  |  |
+| [MONGODB CONSTRUA NOVAS APLICACOES COM NOVAS TECNOLOGIAS](./database/MONGODB_CONSTRUA_NOVAS_APLICACOES_COM_NOVAS_TECNOLOGIAS.pdf) |  |  |  |
+| [MUNDOJ JAVA EFETIVO](./java/MUNDOJ_JAVA_EFETIVO.pdf) |  |  |  |
+| [MUNDOJ ORIENTACAO A OBJETOS](./java/MUNDOJ_ORIENTACAO_A_OBJETOS.pdf) |  |  |  |
+| [MUNDOJ SEGURANCA COM JAVA](./java/MUNDOJ_SEGURANCA_COM_JAVA.pdf) |  |  |  |
+| [MYSQL COMECE COM O PRINCIPAL BANCO DE DADOS OPEN SOURCE DO MERCADO](./database/MYSQL_COMECE_COM_O_PRINCIPAL_BANCO_DE_DADOS_OPEN_SOURCE_DO_MERCADO.pdf) |  |  |  |
+| [NAKED STATISTICS STRIPPING THE DREAD FROM THE DATA](./statistics_and_probability/NAKED_STATISTICS_STRIPPING_THE_DREAD_FROM_THE_DATA.pdf) |  |  |  |
+| [NETWORKING FUNDAMENTALS](./networking/NETWORKING_FUNDAMENTALS.pdf) |  |  |  |
+| [NETWORKING NETWORKING FUNDAMENTALS EXAM 98 366](./networking/NETWORKING_NETWORKING_FUNDAMENTALS_EXAM_98_366.pdf) |  |  |  |
+| [NETWORKPROGRAMMING](./networking/NETWORKPROGRAMMING.pdf) |  |  |  |
+| [NODE JS APLICACOES WEB REAL TIME COM NODE JS](./javascript/NODE_JS_APLICACOES_WEB_REAL_TIME_COM_NODE_JS.pdf) |  |  |  |
+| [NOSQL COMO ARMAZENAR OS DADOS DE UMA APLICACAO MODERNA](./database/NOSQL_COMO_ARMAZENAR_OS_DADOS_DE_UMA_APLICACAO_MODERNA.pdf) |  |  |  |
+| [NUMBERS RULE YOUR WORLD THE HIDDEN INFLUENCE OF PROBABILITIES AND STATISTICS ON EVERYTHING YOU DO](./statistics_and_probability/NUMBERS_RULE_YOUR_WORLD_THE_HIDDEN_INFLUENCE_OF_PROBABILITIES_AND_STATISTICS_ON_EVERYTHING_YOU_DO.pdf) |  |  |  |
+| [O CANIVETE SUICO DO DESENVOLVEDOR NODE](./javascript/O_CANIVETE_SUICO_DO_DESENVOLVEDOR_NODE.pdf) |  |  |  |
+| [O MANTRA DA PRODUTIVIDADE APRIMORE SUA PRODUTIVIDADE COM TECNICAS DE FOCO E ORGANIZACAO PESSOAL](./project_management/O_MANTRA_DA_PRODUTIVIDADE_APRIMORE_SUA_PRODUTIVIDADE_COM_TECNICAS_DE_FOCO_E_ORGANIZACAO_PESSOAL.pdf) |  |  |  |
+| [O PROGRAMADOR APAIXONADO CONSTRUINDO UMA CARREIRA NOTAVEL EM DESENVOLVIMENTO DE SOFTWARE](./software_engineering/O_PROGRAMADOR_APAIXONADO_CONSTRUINDO_UMA_CARREIRA_NOTAVEL_EM_DESENVOLVIMENTO_DE_SOFTWARE.pdf) |  |  |  |
+| [O REILLY JAVA IO](./java/O_REILLY_JAVA_IO.pdf) |  |  |  |
+| [O REILLY JAVA NIO](./java/O_REILLY_JAVA_NIO.pdf) |  |  |  |
+| [O REILLY JAVA THREADS 2ND EDITION](./java/O_REILLY_JAVA_THREADS_2ND_EDITION.pdf) |  |  |  |
+| [OBJECT ORIENTED PROGRAMMING USING C SHARP](./c_sharp/OBJECT_ORIENTED_PROGRAMMING_USING_C_SHARP.pdf) |  |  |  |
+| [OCAML PROGRAMACAO FUNCIONAL NA PRATICA](./miscellaneous/OCAML_PROGRAMACAO_FUNCIONAL_NA_PRATICA.pdf) |  |  |  |
+| [OCTAVE SEUS PRIMEIROS PASSOS NA PROGRAMACAO CIENTIFICA](./miscellaneous/OCTAVE_SEUS_PRIMEIROS_PASSOS_NA_PROGRAMACAO_CIENTIFICA.pdf) |  |  |  |
+| [OOP DEVMEDIA](./java/OOP_DEVMEDIA.pdf) |  |  |  |
+| [OPEN INTRO STATISTICS](./statistics_and_probability/OPEN_INTRO_STATISTICS.pdf) |  |  |  |
+| [OPERATINGSYSTEMCONCEPTS 10TH](./operating_systems/OPERATINGSYSTEMCONCEPTS_10TH.pdf) |  |  |  |
+| [ORCHESTRATING DOCKER](./docker/ORCHESTRATING_DOCKER.pdf) |  |  |  |
+| [OREILLY JAVA 8 LAMBDAS 1449370772](./java/OREILLY_JAVA_8_LAMBDAS_1449370772.pdf) |  |  |  |
+| [ORIENTACAO A OBJETOS APRENDA SEUS CONCEITOS E SUAS APLICABILIDADES DE FORMA EFETIVA](./java/ORIENTACAO_A_OBJETOS_APRENDA_SEUS_CONCEITOS_E_SUAS_APLICABILIDADES_DE_FORMA_EFETIVA.pdf) |  |  |  |
+| [ORIENTACAO A OBJETOS E SOLID PARA NINJAS PROJETANDO CLASSES FLEXIVEIS](./java/ORIENTACAO_A_OBJETOS_E_SOLID_PARA_NINJAS_PROJETANDO_CLASSES_FLEXIVEIS.pdf) |  |  |  |
+| [PARALLEL FREQUENT PATTERN DISCOVERY CHALLENGES AND METHODOLOGY](./miscellaneous/PARALLEL_FREQUENT_PATTERN_DISCOVERY_CHALLENGES_AND_METHODOLOGY.pdf) |  |  |  |
+| [PEEPCODE GIT](./git/PEEPCODE_GIT.pdf) |  |  |  |
+| [PHP E LARAVEL CRIE APLICACOES WEB COMO UM VERDADEIRO ARTESAO](./php/PHP_E_LARAVEL_CRIE_APLICACOES_WEB_COMO_UM_VERDADEIRO_ARTESAO.pdf) |  |  |  |
+| [PHP PROGRAMANDO COM ORIENTACAO A OBJETOS](./php/PHP_PROGRAMANDO_COM_ORIENTACAO_A_OBJETOS.pdf) |  |  |  |
+| [PIXEL PERFECT PRECISION](./ui_ux/PIXEL_PERFECT_PRECISION.pdf) |  |  |  |
+| [PLAY FRAMEWORK JAVA PARA WEB SEM SERVLETS E COM DIVERSAO](./java/PLAY_FRAMEWORK_JAVA_PARA_WEB_SEM_SERVLETS_E_COM_DIVERSAO.pdf) |  |  |  |
+| [PLSQL DOMINE A LINGUAGEM DO BANCO DE DADOS ORACLE](./database/PLSQL_DOMINE_A_LINGUAGEM_DO_BANCO_DE_DADOS_ORACLE.pdf) |  |  |  |
+| [POSTGRESQL BANCO DE DADOS PARA APLICACOES WEB MODERNAS](./database/POSTGRESQL_BANCO_DE_DADOS_PARA_APLICACOES_WEB_MODERNAS.pdf) |  |  |  |
+| [PRACTICAL ANSIBLE 2](./ansible/PRACTICAL_ANSIBLE_2.pdf) |  |  |  |
+| [PRACTICAL ANSIBLE](./ansible/PRACTICAL_ANSIBLE.pdf) |  |  |  |
+| [PRACTICAL STATISTICS FOR DATA SCIENTISTS](./statistics_and_probability/PRACTICAL_STATISTICS_FOR_DATA_SCIENTISTS.pdf) |  |  |  |
+| [PRACTICAL USER RESEARCH FOR ENTERPRISE UX](./ui_ux/PRACTICAL_USER_RESEARCH_FOR_ENTERPRISE_UX.pdf) |  |  |  |
+| [PRINCIPLES OF STATISTICS](./statistics_and_probability/PRINCIPLES_OF_STATISTICS.pdf) |  |  |  |
+| [PRO DOCKER](./docker/PRO_DOCKER.pdf) |  |  |  |
+| [PRO EXPRESS JS](./javascript/PRO_EXPRESS_JS.pdf) |  |  |  |
+| [PROBABILITY AND STATISTICS AUTOR MICHAEL J EVANS AND JEFFREY S ROSENTHAL](./statistics_and_probability/PROBABILITY_AND_STATISTICS_AUTOR_MICHAEL_J_EVANS_AND_JEFFREY_S_ROSENTHAL.pdf) |  |  |  |
+| [PROBABILITY AND STATISTICS FOR ENGINEERING AND THE SCIENCES](./statistics_and_probability/PROBABILITY_AND_STATISTICS_FOR_ENGINEERING_AND_THE_SCIENCES.pdf) |  |  |  |
+| [PROGRAMANDO EM GO CRIE APLICACOES COM A LINGUAGEM DO GOOGLE](./go/PROGRAMANDO_EM_GO_CRIE_APLICACOES_COM_A_LINGUAGEM_DO_GOOGLE.pdf) |  |  |  |
+| [PROTRACTOR LICOES SOBRE TESTES END TO END AUTOMATIZADOS](./testing/PROTRACTOR_LICOES_SOBRE_TESTES_END_TO_END_AUTOMATIZADOS.pdf) |  |  |  |
+| [PUSH NOTIFICATION BEST PRACTICES](./mobile_development/PUSH_NOTIFICATION_BEST_PRACTICES.pdf) |  |  |  |
+| [PYTHON ESCREVA SEUS PRIMEIROS PROGRAMAS](./python/PYTHON_ESCREVA_SEUS_PRIMEIROS_PROGRAMAS.pdf) |  |  |  |
+| [REFATORANDO COM PADROES DE PROJETO UM GUIA EM RUBY](./ruby/REFATORANDO_COM_PADROES_DE_PROJETO_UM_GUIA_EM_RUBY.pdf) |  |  |  |
+| [REST CONSTRUA API S INTELIGENTES DE MANEIRA SIMPLES](./software_engineering/REST_CONSTRUA_API_S_INTELIGENTES_DE_MANEIRA_SIMPLES.pdf) |  |  |  |
+| [RESTFUL WEB API DESIGN WITH NODE JS](./javascript/RESTFUL_WEB_API_DESIGN_WITH_NODE_JS.pdf) |  |  |  |
+| [RSPEC CRIE ESPECIFICACOES EXECUTAVEIS EM RUBY](./testing/RSPEC_CRIE_ESPECIFICACOES_EXECUTAVEIS_EM_RUBY.pdf) |  |  |  |
+| [RUBY APRENDA A PROGRAMAR NA LINGUAGEM MAIS DIVERTIDA](./ruby/RUBY_APRENDA_A_PROGRAMAR_NA_LINGUAGEM_MAIS_DIVERTIDA.pdf) |  |  |  |
+| [RUBY ON RAILS COLOQUE SUA APLICACAO WEB NOS TRILHOS](./ruby/RUBY_ON_RAILS_COLOQUE_SUA_APLICACAO_WEB_NOS_TRILHOS.pdf) |  |  |  |
+| [RXJAVA FOR ANDROID APP DEVELOPMENT](./java/RXJAVA_FOR_ANDROID_APP_DEVELOPMENT.pdf) |  |  |  |
+| [SAMPLING DESIGN AND ANALYSIS CHAPMAN HALL CRC](./statistics_and_probability/SAMPLING_DESIGN_AND_ANALYSIS_CHAPMAN_HALL_CRC.pdf) |  |  |  |
+| [SAMPLING THEORY AND METHODS STATISTICAL PUBLISHING SOCIETY 1967](./statistics_and_probability/SAMPLING_THEORY_AND_METHODS_STATISTICAL_PUBLISHING_SOCIETY_1967.pdf) |  |  |  |
+| [SAMPLING THIRD EDITION](./statistics_and_probability/SAMPLING_THIRD_EDITION.pdf) |  |  |  |
+| [SASS APRENDENDO PRE PROCESSADORES CSS](./design/SASS_APRENDENDO_PRE_PROCESSADORES_CSS.pdf) |  |  |  |
+| [SCALA COMO ESCALAR SUA PRODUTIVIDADE](./scala/SCALA_COMO_ESCALAR_SUA_PRODUTIVIDADE.pdf) |  |  |  |
+| [SCHAUM S OUTLINE OF THEORY AND PROBLEMS OF STATISTICS](./statistics_and_probability/SCHAUM_S_OUTLINE_OF_THEORY_AND_PROBLEMS_OF_STATISTICS.pdf) |  |  |  |
+| [SCRATCH UM JEITO DIVERTIDO DE APRENDER PROGRAMACAO](./scratch/SCRATCH_UM_JEITO_DIVERTIDO_DE_APRENDER_PROGRAMACAO.pdf) |  |  |  |
+| [SCRUM 360 UM GUIA COMPLETO E PRATICO DE AGILIDADE](./agile/SCRUM_360_UM_GUIA_COMPLETO_E_PRATICO_DE_AGILIDADE.pdf) |  |  |  |
+| [SCRUM GESTAO AGIL PARA PROJETOS DE SUCESSO](./agile/SCRUM_GESTAO_AGIL_PARA_PROJETOS_DE_SUCESSO.pdf) |  |  |  |
+| [SEGURANCA EM APLICACOES WEB](./security/SEGURANCA_EM_APLICACOES_WEB.pdf) |  |  |  |
+| [SEO PRATICO SEU SITE NA PRIMEIRA PAGINA DAS BUSCAS](./miscellaneous/SEO_PRATICO_SEU_SITE_NA_PRIMEIRA_PAGINA_DAS_BUSCAS.pdf) |  |  |  |
+| [SOA APLICADO INTEGRANDO COM WEB SERVICES E ALEM](./software_engineering/SOA_APLICADO_INTEGRANDO_COM_WEB_SERVICES_E_ALEM.pdf) |  |  |  |
+| [SOFTWARE QUALITY ASSURANCE FROM THEORY TO IMPLEMENTATION](./testing/SOFTWARE_QUALITY_ASSURANCE_FROM_THEORY_TO_IMPLEMENTATION.pdf) |  |  |  |
+| [SOFTWARE QUALITY ENGINEERING CS611 HANDOUTS](./testing/SOFTWARE_QUALITY_ENGINEERING_CS611_HANDOUTS.pdf) |  |  |  |
+| [SOFTWARE QUALITY ENGINEERING TESTING QUALITY ASSURANCE AND QUANTIFIABLE IMPROVEMENT](./testing/SOFTWARE_QUALITY_ENGINEERING_TESTING_QUALITY_ASSURANCE_AND_QUANTIFIABLE_IMPROVEMENT.pdf) |  |  |  |
+| [SPRING MVC DOMINE O PRINCIPAL FRAMEWORK WEB JAVA](./java/SPRING_MVC_DOMINE_O_PRINCIPAL_FRAMEWORK_WEB_JAVA.pdf) |  |  |  |
+| [SQL UMA ABORDAGEM PARA BANCOS DE DADOS ORACLE](./database/SQL_UMA_ABORDAGEM_PARA_BANCOS_DE_DADOS_ORACLE.pdf) |  |  |  |
+| [STATISTICAL DATA ANALYSIS USING SPSS](./statistics_and_probability/STATISTICAL_DATA_ANALYSIS_USING_SPSS.pdf) |  |  |  |
+| [STATISTICS 1001 PRACTICE PROBLEMS FOR DUMMIES PDFDRIVE](./statistics_and_probability/STATISTICS_1001_PRACTICE_PROBLEMS_FOR_DUMMIES_PDFDRIVE.pdf) |  |  |  |
+| [STATISTICS DONE WRONG THE WOEFULLY COMPLETE GUIDE](./statistics_and_probability/STATISTICS_DONE_WRONG_THE_WOEFULLY_COMPLETE_GUIDE.pdf) |  |  |  |
+| [STATISTICS ESSENTIALS FOR DUMMIES](./statistics_and_probability/STATISTICS_ESSENTIALS_FOR_DUMMIES.pdf) |  |  |  |
+| [STATISTICS FOR BUSINESS AND ECONOMICS ANDERSON](./statistics_and_probability/STATISTICS_FOR_BUSINESS_AND_ECONOMICS_ANDERSON.pdf) |  |  |  |
+| [STATISTICS FOR BUSINESS AND ECONOMICS PEARSON 2012](./statistics_and_probability/STATISTICS_FOR_BUSINESS_AND_ECONOMICS_PEARSON_2012.pdf) |  |  |  |
+| [STATISTICS FOR PEOPLE WHO HATE STATISTICS](./statistics_and_probability/STATISTICS_FOR_PEOPLE_WHO_HATE_STATISTICS.pdf) |  |  |  |
+| [STATISTICS II FOR DUMMIES](./statistics_and_probability/STATISTICS_II_FOR_DUMMIES.pdf) |  |  |  |
+| [STYLE GUIDES AN OVERVIEW FOR MODERN DESIGNERS](./ui_ux/STYLE_GUIDES_AN_OVERVIEW_FOR_MODERN_DESIGNERS.pdf) |  |  |  |
+| [SWIFT PROGRAME PARA IPHONE E IPAD](./mobile_development/SWIFT_PROGRAME_PARA_IPHONE_E_IPAD.pdf) |  |  |  |
+| [TASK CENTRED USER INTERFACE DESIGN](./ui_ux/TASK_CENTRED_USER_INTERFACE_DESIGN.pdf) |  |  |  |
+| [TECHNICAL REPORT WRITING](./technical_writing/TECHNICAL_REPORT_WRITING.pdf) |  |  |  |
+| [TECHNICAL WRITING 1592951279](./technical_writing/TECHNICAL_WRITING_1592951279.pdf) |  |  |  |
+| [TECHNICAL WRITING FOR SOFTWARE ENGINEERS](./technical_writing/TECHNICAL_WRITING_FOR_SOFTWARE_ENGINEERS.pdf) |  |  |  |
+| [TEST DRIVEN DEVELOPMENT TESTE E DESIGN NO MUNDO REAL COM JAVA](./testing/TEST_DRIVEN_DEVELOPMENT_TESTE_E_DESIGN_NO_MUNDO_REAL_COM_JAVA.pdf) |  |  |  |
+| [TEST DRIVEN DEVELOPMENT TESTE E DESIGN NO MUNDO REAL COM NET](./testing/TEST_DRIVEN_DEVELOPMENT_TESTE_E_DESIGN_NO_MUNDO_REAL_COM_NET.pdf) |  |  |  |
+| [TEST DRIVEN DEVELOPMENT TESTE E DESIGN NO MUNDO REAL COM PHP](./testing/TEST_DRIVEN_DEVELOPMENT_TESTE_E_DESIGN_NO_MUNDO_REAL_COM_PHP.pdf) |  |  |  |
+| [TEST DRIVEN DEVELOPMENT TESTE E DESIGN NO MUNDO REAL COM RUBY](./testing/TEST_DRIVEN_DEVELOPMENT_TESTE_E_DESIGN_NO_MUNDO_REAL_COM_RUBY.pdf) |  |  |  |
+| [TESTES AUTOMATIZADOS DE SOFTWARE UM GUIA PRATICO](./testing/TESTES_AUTOMATIZADOS_DE_SOFTWARE_UM_GUIA_PRATICO.pdf) |  |  |  |
+| [TEXT CATEGORIZATION APPROACH FOR SECURE DESIGN PATTERN SELECTION USING SOFTWARE REQUIREMENT SPECIFICATION](./security/TEXT_CATEGORIZATION_APPROACH_FOR_SECURE_DESIGN_PATTERN_SELECTION_USING_SOFTWARE_REQUIREMENT_SPECIFICATION.pdf) |  |  |  |
+| [THE 5 BUILDING BLOCKS OF INTERACTION DESIGN](./ui_ux/THE_5_BUILDING_BLOCKS_OF_INTERACTION_DESIGN.pdf) |  |  |  |
+| [THE CRITICAL COMPONENTS OF WEB UI STYLE GUIDES](./ui_ux/THE_CRITICAL_COMPONENTS_OF_WEB_UI_STYLE_GUIDES.pdf) |  |  |  |
+| [THE CURATED COLLECTION OF WEB DESIGN TECHNIQUES INTERACTION DESIGN COMPLEX ANIMATIONS](./ui_ux/THE_CURATED_COLLECTION_OF_WEB_DESIGN_TECHNIQUES_INTERACTION_DESIGN_COMPLEX_ANIMATIONS.pdf) |  |  |  |
+| [THE DEVOPS 2 0 TOOLKIT](./devops/THE_DEVOPS_2_0_TOOLKIT.pdf) |  |  |  |
+| [THE DEVOPS HANDBOOK](./devops/THE_DEVOPS_HANDBOOK.pdf) |  |  |  |
+| [THE DOCKER BOOK JAMES TURNBULL V17 03 0](./docker/THE_DOCKER_BOOK_JAMES_TURNBULL_V17_03_0.pdf) |  |  |  |
+| [THE EFFECT OF CODE SMELLS ON THE RELATIONSHIP BETWEEN DESIGN PATTERNS AND DEFECTS](./software_engineering/THE_EFFECT_OF_CODE_SMELLS_ON_THE_RELATIONSHIP_BETWEEN_DESIGN_PATTERNS_AND_DEFECTS.pdf) |  |  |  |
+| [THE ELEMENTS OF STATISTICAL LEARNING](./statistics_and_probability/THE_ELEMENTS_OF_STATISTICAL_LEARNING.pdf) |  |  |  |
+| [THE ELEMENTS OF USER EXPERIENCE USER CENTERED DESIGN FOR THE WEB AND BEYOND](./ui_ux/THE_ELEMENTS_OF_USER_EXPERIENCE_USER_CENTERED_DESIGN_FOR_THE_WEB_AND_BEYOND.pdf) |  |  |  |
+| [THE ENTERPRISE GUIDE TO DELIVERING COMMERCE PROGRESSIVE WEB APPS](./mobile_development/THE_ENTERPRISE_GUIDE_TO_DELIVERING_COMMERCE_PROGRESSIVE_WEB_APPS.pdf) |  |  |  |
+| [THE GUIDE TO INTERACTIVE WIREFRAMING](./ui_ux/THE_GUIDE_TO_INTERACTIVE_WIREFRAMING.pdf) |  |  |  |
+| [THE GUIDE TO USABILITY TESTING](./ui_ux/THE_GUIDE_TO_USABILITY_TESTING.pdf) |  |  |  |
+| [THE PRACTICAL HANDBOOK TO RAPID LO FI PROTOTYPING](./ui_ux/THE_PRACTICAL_HANDBOOK_TO_RAPID_LO_FI_PROTOTYPING.pdf) |  |  |  |
+| [THE STATE OF WEB DESIGN 2016 EDITION](./design/THE_STATE_OF_WEB_DESIGN_2016_EDITION.pdf) |  |  |  |
+| [THE UNIFIED MODELING LANGUAGE USER GUIDE](./software_engineering/THE_UNIFIED_MODELING_LANGUAGE_USER_GUIDE.pdf) |  |  |  |
+| [THINK STATS 2ND EDITION EXPLORATORY DATA ANALYSIS PDFDRIVE](./statistics_and_probability/THINK_STATS_2ND_EDITION_EXPLORATORY_DATA_ANALYSIS_PDFDRIVE.pdf) |  |  |  |
+| [THINKING IN JAVA 4TH EDITION](./java/THINKING_IN_JAVA_4TH_EDITION.pdf) |  |  |  |
+| [TIMELESS UX DESIGN TRENDS RESPONSIVE ADAPTIVE WEB DESIGN](./ui_ux/TIMELESS_UX_DESIGN_TRENDS_RESPONSIVE_ADAPTIVE_WEB_DESIGN.pdf) |  |  |  |
+| [TOP 55 GIT INTERVIEW QUE TOP GIT INTERVIEW](./git/TOP_55_GIT_INTERVIEW_QUE_TOP_GIT_INTERVIEW.pdf) |  |  |  |
+| [TURBINE SEU CSS FOLHAS DE ESTILO INTELIGENTES COM SASS](./design/TURBINE_SEU_CSS_FOLHAS_DE_ESTILO_INTELIGENTES_COM_SASS.pdf) |  |  |  |
+| [USING DOCKER](./docker/USING_DOCKER.pdf) |  |  |  |
+| [VIRE O JOGO COM SPRING FRAMEWORK](./java/VIRE_O_JOGO_COM_SPRING_FRAMEWORK.pdf) |  |  |  |
+| [VRAPTOR DESENVOLVIMENTO AGIL PARA WEB COM JAVA](./java/VRAPTOR_DESENVOLVIMENTO_AGIL_PARA_WEB_COM_JAVA.pdf) |  |  |  |
+| [WEB DESIGN IS DEAD](./design/WEB_DESIGN_IS_DEAD.pdf) |  |  |  |
+| [WEB DESIGN RESPONSIVO PAGINAS ADAPTAVEIS PARA TODOS OS DISPOSITIVOS](./design/WEB_DESIGN_RESPONSIVO_PAGINAS_ADAPTAVEIS_PARA_TODOS_OS_DISPOSITIVOS.pdf) |  |  |  |
+| [WEB DEVELOPMENT WITH NODE AND EXPRESS](./javascript/WEB_DEVELOPMENT_WITH_NODE_AND_EXPRESS.pdf) |  |  |  |
+| [WEB SERVICES REST COM ASP NET WEB API E WINDOWS AZURE](./c_sharp/WEB_SERVICES_REST_COM_ASP_NET_WEB_API_E_WINDOWS_AZURE.pdf) |  |  |  |
+| [WEB UI DESIGN FOR THE HUMAN EYE](./ui_ux/WEB_UI_DESIGN_FOR_THE_HUMAN_EYE.pdf) |  |  |  |
+| [WEB UI TRENDS PRESENT FUTURE CARD BASED DESIGN PATTERNS](./ui_ux/WEB_UI_TRENDS_PRESENT_FUTURE_CARD_BASED_DESIGN_PATTERNS.pdf) |  |  |  |
+| [WEB UI TRENDS PRESENT FUTURE DRAMATIC TYPOGRAPHY](./ui_ux/WEB_UI_TRENDS_PRESENT_FUTURE_DRAMATIC_TYPOGRAPHY.pdf) |  |  |  |
+| [WEB UI TRENDS PRESENT FUTURE THE ELEGANCE OF MINIMALISM](./ui_ux/WEB_UI_TRENDS_PRESENT_FUTURE_THE_ELEGANCE_OF_MINIMALISM.pdf) |  |  |  |
+| [WEB UI TRENDS PRESENT FUTURE THE EVOLUTION OF FLAT DESIGN](./ui_ux/WEB_UI_TRENDS_PRESENT_FUTURE_THE_EVOLUTION_OF_FLAT_DESIGN.pdf) |  |  |  |
+| [WEB UI TRENDS PRESENT FUTURE THE VIBRANCY OF COLOR](./ui_ux/WEB_UI_TRENDS_PRESENT_FUTURE_THE_VIBRANCY_OF_COLOR.pdf) |  |  |  |
+| [WHITE SPACE IN WEB UI DESIGN MASTERING THE POWER OF NOTHING](./ui_ux/WHITE_SPACE_IN_WEB_UI_DESIGN_MASTERING_THE_POWER_OF_NOTHING.pdf) |  |  |  |
+| [WINDOWS SERVER 2012 R2 ESTUDO DIRIGIDO PARA MCSA PROVA 70 410](./operating_systems/WINDOWS_SERVER_2012_R2_ESTUDO_DIRIGIDO_PARA_MCSA_PROVA_70_410.pdf) |  |  |  |
+| [XAMARIN FORMS DESENVOLVIMENTO DE APLICACOES MOVEIS MULTIPLATAFORMA](./c_sharp/XAMARIN_FORMS_DESENVOLVIMENTO_DE_APLICACOES_MOVEIS_MULTIPLATAFORMA.pdf) |  |  |  |
+| [Y DANIEL LIANG INTRODUCTION TO JAVA PROGRAMMING COMPREHENSIVE VERSION 10TH EDITION 2014](./java/Y_DANIEL_LIANG_INTRODUCTION_TO_JAVA_PROGRAMMING_COMPREHENSIVE_VERSION_10TH_EDITION_2014.pdf) |  |  |  |
+| [ZEN OF WHITE SPACE IN WEB UI DESIGN BALANCE CONTRAST HIERARCHY](./ui_ux/ZEN_OF_WHITE_SPACE_IN_WEB_UI_DESIGN_BALANCE_CONTRAST_HIERARCHY.pdf) |  |  |  |
+| [ZEN OF WHITE SPACE IN WEB UI DESIGN SPACE RATIOS MINIMALISM](./ui_ux/ZEN_OF_WHITE_SPACE_IN_WEB_UI_DESIGN_SPACE_RATIOS_MINIMALISM.pdf) |  |  |  |
+| [ZEND CERTIFIED ENGINEER DESCOMPLICANDO A CERTIFICACAO PHP](./php/ZEND_CERTIFIED_ENGINEER_DESCOMPLICANDO_A_CERTIFICACAO_PHP.pdf) |  |  |  |
+| [agile desenvolvimento de software com entregas frequentes e foco no valor de negocio](./agile/agile_desenvolvimento_de_software_com_entregas_frequentes_e_foco_no_valor_de_negocio.pdf) |  |  |  |
+| [dominando javascript com jquery](./javascript/dominando_javascript_com_jquery.pdf) |  |  |  |
+| [ecmascript 6 entre de cabeca no futuro do javascript](./javascript/ecmascript_6_entre_de_cabeca_no_futuro_do_javascript.pdf) |  |  |  |
+| [economia do acesso e os modelos de negocios baseados em compartilhamento recorrencia e assinaturas](./business/economia_do_acesso_e_os_modelos_de_negocios_baseados_em_compartilhamento_recorrencia_e_assinaturas.pdf) |  |  |  |
+| [elasticsearch consumindo dados real time com elk](./database/elasticsearch_consumindo_dados_real_time_com_elk.pdf) |  |  |  |
+| [entrega continua em android como automatizar a distribuicao de apps](./mobile_development/entrega_continua_em_android_como_automatizar_a_distribuicao_de_apps.pdf) |  |  |  |
+| [extreme programming praticas para o dia a dia no desenvolvimento agil de software](./agile/extreme_programming_praticas_para_o_dia_a_dia_no_desenvolvimento_agil_de_software.pdf) |  |  |  |
+| [guia front end o caminho das pedras para ser um dev front end](./javascript/guia_front_end_o_caminho_das_pedras_para_ser_um_dev_front_end.pdf) |  |  |  |
+| [java 8 pratico lambdas streams e os novos recursos da linguagem](./java/java_8_pratico_lambdas_streams_e_os_novos_recursos_da_linguagem.pdf) |  |  |  |
+| [kubernetes microservices with docker](./kubernetes/kubernetes_microservices_with_docker.pdf) |  |  |  |
+| [logica de programacao crie seus primeiros programas usando javascript e html](./javascript/logica_de_programacao_crie_seus_primeiros_programas_usando_javascript_e_html.pdf) |  |  |  |
 ## Scripts de Automação
 
 Este repositório utiliza scripts para automatizar tarefas de manutenção e organização.
@@ -195,6 +494,21 @@ Este script Python lê o arquivo `books.json`, processa os nomes dos arquivos PD
     ```
 
 O script irá atualizar o `books.json` com os títulos limpos, mantendo as informações existentes.
+
+### `scripts/update_books_metadata.py`
+
+Este script Python lê todos os arquivos PDF no repositório (excluindo a pasta `_trash`), extrai metadados como título, autor e palavras-chave usando paralelismo (threads), e atualiza o `books.json` com essas informações. Ele adiciona campos como `path`, `description`, `language` e `tags` a cada entrada de livro.
+
+**Como usar:**
+
+1.  Certifique-se de ter o Python 3 e a biblioteca `pypdf` instalados (`pip install pypdf`).
+2.  Navegue até a raiz do repositório no seu terminal.
+3.  Execute o script:
+    ```bash
+    python scripts/update_books_metadata.py
+    ```
+
+O script irá atualizar o `books.json` com os metadados extraídos, criando novas entradas para PDFs não listados e atualizando as existentes.
 
 ---
 
