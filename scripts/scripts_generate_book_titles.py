@@ -24,7 +24,7 @@ def clean_title(filename):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.abspath(os.path.join(script_dir, ".."))
+    project_root = os.path.abspath(os.path.join(script_dir, "../data/"))
     books_json_path = os.path.join(project_root, "books.json")
 
     print(f"Lendo o arquivo: {books_json_path}")
