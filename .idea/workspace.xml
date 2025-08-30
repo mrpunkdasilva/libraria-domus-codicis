@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5119be41-dcbf-41c8-bd1a-e6dba061a874" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/books.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/scripts_generate_book_titles.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts_generate_book_titles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/abap/abap_abap_o_guia_de_sobrevivencia_do_profissional_moderno.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_agile_desenvolvimento_de_software_com_entregas_frequentes_e_foco_no_valor_de_negocio.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_desenvolvimento_de_software_com_entregas_frequentes_e_foco_no_valor_de_negocio.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_direto_ao_ponto_criando_produtos_de_forma_enxuta.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_lean_enterprise_como_empresas_de_alta_performance_inovam_em_escala.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_learning_3_0_como_os_profissionais_criativos_aprendem.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_metricas_ageis_obtenha_melhores_resultados_em_sua_equipe.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_scrum_360_um_guia_completo_e_pratico_de_agilidade.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/agile_scrum_gestao_agil_para_projetos_de_sucesso.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/agile/extreme_programming_praticas_para_o_dia_a_dia_no_desenvolvimento_agil_de_software.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/database/elasticsearch_consumindo_dados_real_time_com_elk.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology/javascript/ecmascript_6_entre_de_cabeca_no_futuro_do_javascript.pdf" beforeDir="false" />
+    <list default="true" id="5119be41-dcbf-41c8-bd1a-e6dba061a874" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/books.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scripts_generate_readme_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts_generate_readme_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scripts_update_books_metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts_update_books_metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scripts_update_readme.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts_update_readme.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +46,13 @@
     "Python.scripts_clean_filenames.executor": "Run",
     "Python.scripts_commit_and_push_batched.executor": "Run",
     "Python.scripts_generate_book_titles.executor": "Run",
+    "Python.scripts_generate_readme_table.executor": "Run",
+    "Python.scripts_update_books_metadata.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.scripts_commit_and_push_each.sh.executor": "Run",
+    "Shell Script.scripts_update_readme.sh.executor": "Run",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/mrpunkdasilva/Documents/libraria-domus-codicis",
@@ -77,51 +72,7 @@
       <recent name="$PROJECT_DIR$/technology" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scripts_commit_and_push_batched">
-    <configuration name="scripts_clean_filenames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="libraria-domus-codicis" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scripts_clean_filenames.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scripts_commit_and_push_batched" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="libraria-domus-codicis" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scripts_commit_and_push_batched.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.scripts_generate_readme_table">
     <configuration name="scripts_generate_book_titles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="libraria-domus-codicis" />
       <option name="ENV_FILES" value="" />
@@ -136,6 +87,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scripts_generate_book_titles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scripts_generate_readme_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="libraria-domus-codicis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scripts_generate_readme_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scripts_update_books_metadata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="libraria-domus-codicis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scripts_update_books_metadata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,12 +154,28 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="scripts_update_readme.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/scripts_update_readme.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Shell Script.scripts_commit_and_push_each.sh" />
-        <item itemvalue="Python.scripts_commit_and_push_batched" />
-        <item itemvalue="Python.scripts_clean_filenames" />
+        <item itemvalue="Shell Script.scripts_update_readme.sh" />
+        <item itemvalue="Python.scripts_generate_readme_table" />
         <item itemvalue="Python.scripts_generate_book_titles" />
+        <item itemvalue="Python.scripts_update_books_metadata" />
+        <item itemvalue="Shell Script.scripts_commit_and_push_each.sh" />
       </list>
     </recent_temporary>
   </component>
@@ -182,8 +193,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756510572992</updated>
-      <workItem from="1756510574104" duration="1411000" />
+      <workItem from="1756510574104" duration="2305000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1756512168214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756512168214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,5 +219,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>

@@ -7,9 +7,9 @@ SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
 PROJECT_ROOT="$SCRIPT_DIR/.."
 cd "$PROJECT_ROOT" || exit
 
-STATS_GENERATOR_SCRIPT="./scripts/generate_book_stats.sh"
-STATS_FILE="./data/book_stats.json"
-README_FILE="./README.md"
+STATS_GENERATOR_SCRIPT="./scripts_generate_book_stats.sh"
+STATS_FILE="../data/book_stats.json"
+README_FILE="../README.md"
 START_MARKER="<!-- STATS:START -->"
 END_MARKER="<!-- STATS:END -->"
 

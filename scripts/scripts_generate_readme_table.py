@@ -32,7 +32,7 @@ def generate_markdown_table(books_data):
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.abspath(os.path.join(script_dir, ".."))
-    books_json_path = os.path.join(project_root, "books.json")
+    books_json_path = os.path.join(project_root, "data", "books.json")
     readme_path = os.path.join(project_root, "README.md")
 
     print(f"Lendo o arquivo: {books_json_path}")

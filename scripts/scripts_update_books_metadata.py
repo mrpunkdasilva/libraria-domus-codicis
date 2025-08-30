@@ -6,7 +6,7 @@ import queue
 from pypdf import PdfReader
 
 # Constants
-BOOKS_JSON_PATH = "books.json"
+BOOKS_JSON_PATH = "data/books.json"
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 NUM_THREADS = os.cpu_count() * 2 if os.cpu_count() else 4 # Use more threads for I/O bound tasks
 
